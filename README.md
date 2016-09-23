@@ -147,7 +147,7 @@ bookmarklet](http://trevorjim.com/projects/make.text/) gets me from the HTML to 
 [42]: http://www.abcnewspodcasts.com/
 [43]: http://truecrimegarage.podbean.com/feed/
 [44]: http://truecrimegarage.podbean.com/
-[45]: http://alreadygonepodcast.libsyn.com/rss
+[45]: https://audioboom.com/channels/4802500.rss
 [46]: https://audioboom.com/channel/already-gone-podcast
 [47]: http://missingmauramurray.podomatic.com/rss2.xml
 [48]: http://missingmauramurray.podomatic.com/
