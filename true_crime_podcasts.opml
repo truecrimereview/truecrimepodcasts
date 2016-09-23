@@ -26,7 +26,7 @@
 		<outline type="rss" text="48 Hours" title="48 Hours" xmlUrl="https://api.radio.com/v2/podcast/rss/1222?format=MP3_128K" htmlUrl="http://radio.com/audio"/>
 		<outline type="rss" text="ABC News 20/20" title="ABC News 20/20" xmlUrl="http://abcnews.go.com/xmldata/xmlpodcast?id=30146791" htmlUrl="http://www.abcnewspodcasts.com/"/>
 		<outline type="rss" text="True Crime Garage" title="True Crime Garage" xmlUrl="http://truecrimegarage.podbean.com/feed/" htmlUrl="http://truecrimegarage.podbean.com/"/>
-		<outline type="rss" text="Already Gone Podcast" title="Already Gone Podcast" xmlUrl="http://alreadygonepodcast.libsyn.com/rss" htmlUrl="https://audioboom.com/channel/already-gone-podcast"/>
+		<outline type="rss" text="Already Gone Podcast" title="Already Gone Podcast" xmlUrl="https://audioboom.com/channels/4802500.rss" htmlUrl="https://audioboom.com/channel/already-gone-podcast"/>
 		<outline type="rss" text="Missing Maura Murray" title="Missing Maura Murray" xmlUrl="http://missingmauramurray.podomatic.com/rss2.xml" htmlUrl="http://missingmauramurray.podomatic.com/"/>
 		<outline type="rss" text="Most Notorious! A True Crime History Podcast" title="Most Notorious! A True Crime History Podcast" xmlUrl="https://audioboom.com/channels/4749136.rss" htmlUrl="https://audioboom.com/channel/most-notorious"/>
 		<outline type="rss" text="The Vanished Podcast" title="The Vanished Podcast" xmlUrl="http://thevanishedpodcast.libsyn.com/rss" htmlUrl="http://thevanishedpodcast.com/"/>
