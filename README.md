@@ -14,6 +14,12 @@ bookmarklet](http://trevorjim.com/projects/make.text/) gets me from the HTML to 
 
 ---
 
+### Note
+
+The List is presented in no particular order. It is **not** a ranking. The numbers are only there so we can easily see what the total count is by look at the number next to the final podcast.
+
+---
+
 1.  \[[RSS][1]\] [Within the Trenches][2]
 1.  \[[RSS][3]\] [48 Hours][4]
 1.  \[[RSS][5]\] [ABC News 20/20][6]
