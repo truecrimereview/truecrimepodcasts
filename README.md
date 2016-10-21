@@ -1,6 +1,6 @@
 # The Big List of True Crime Podcasts
 
-### [ Brought to you by [True Crime Review](http://truecrimereview.net/subscribe)]
+### [ Brought to you by [True Crime Review](http://truecrimereview.net/subscribe) ]
 
 ---
 
