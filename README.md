@@ -47,7 +47,7 @@ The List is presented in no particular order. It is **not** a ranking. The numbe
 1.   \[[RSS][41]\] [GIMG.tv - A podcast devoted to Private Investigators][42]
 1.   \[[RSS][43]\] [True Crime Garage][44]
 1.   \[[RSS][45]\] [Finding Tammy Jo][46]
-1.   \[[RSS][47]\] [Unsolved][48]
+1.   \[[RSS][47]\] [Unsolved: The Murder of John Zera][48]
 1.   \[[RSS][49]\] [The Vanished Podcast][50]
 1.   \[[RSS][51]\] [Crime In Sports][52]
 1.   \[[RSS][53]\] [Coroner Talk(tm) | Death Investigation Training | Police and Law Enforcement][54]
