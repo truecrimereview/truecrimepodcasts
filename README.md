@@ -62,7 +62,6 @@ The List is presented in no particular order. It is **not** a ranking. The numbe
 1.   \[[RSS][71]\] [Astonishing Legends][72]
 1.   \[[RSS][75]\] [History Dweebs][76]
 1.   \[[RSS][77]\] [Crime Historian][78]
-1.   \[[RSS][79]\] [TANIS][80]
 1.   \[[RSS][81]\] [Crime + Investigation Podcast][82]
 1.   \[[RSS][83]\] [Last Podcast On The Left][84]
 1.   \[[RSS][85]\] [Sword and Scale][86]
@@ -234,8 +233,6 @@ The List is presented in no particular order. It is **not** a ranking. The numbe
 [76]: http://timtscott.libsyn.com/podcast
 [77]: http://feeds.soundcloud.com/users/soundcloud:users:252018984/sounds.rss
 [78]: http://crimehistorian.com/
-[79]: http://tanis.libsyn.com/rss
-[80]: http://tanispodcast.com/
 [81]: http://crimeandinvestigation.podbean.com/feed/
 [82]: http://crimeandinvestigation.podbean.com/
 [83]: http://feeds.feedburner.com/TheLastPodcastOnTheLeft
