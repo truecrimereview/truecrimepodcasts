@@ -114,7 +114,6 @@ The List is presented in no particular order. It is **not** a ranking. The numbe
 1.   \[[RSS][176]\] [Still At Large Podcast][177]
 1.   \[[RSS][178]\] [Court Junkie][179]
 1.   \[[RSS][180]\] [In the Dark][181]
-1.   \[[RSS][182]\] [True Crime Review][102]
 1.   \[[RSS][183]\] [Up and Vanished][184]
 1.   \[[RSS][185]\] [Crime-Ridden][186]
 1.   \[[RSS][187]\] [PI's Declassified!][188]
@@ -338,7 +337,6 @@ The List is presented in no particular order. It is **not** a ranking. The numbe
 [179]: http://courtjunkie.com/
 [180]: http://feeds.publicradio.org/public_feeds/in-the-dark/itunes/rss
 [181]: http://www.apmreports.org/in-the-dark
-[182]: http://truecrimereview.net/feed/podcast
 [183]: https://audioboom.com/channels/4811953.rss
 [184]: https://audioboom.com/channel/up-and-vanished
 [185]: http://www.crime-ridden.com/feed/podcast/crime-ridden
