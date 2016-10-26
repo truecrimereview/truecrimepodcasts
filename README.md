@@ -60,7 +60,6 @@ The List is presented in no particular order. It is **not** a ranking. The numbe
 1.   \[[RSS][67]\] [Detective][68]
 1.   \[[RSS][69]\] [This Is Actually Happening][70]
 1.   \[[RSS][71]\] [Astonishing Legends][72]
-1.   \[[RSS][73]\] [True Crime Review][74]
 1.   \[[RSS][75]\] [History Dweebs][76]
 1.   \[[RSS][77]\] [Crime Historian][78]
 1.   \[[RSS][79]\] [TANIS][80]
@@ -232,8 +231,6 @@ The List is presented in no particular order. It is **not** a ranking. The numbe
 [70]: http://misfitrad.io/happening
 [71]: https://audioboom.com/channels/4322549.rss
 [72]: https://audioboom.com/channel/astonishing-legends
-[73]: https://audioboom.com/users/4723246/boos.rss
-[74]: https://audioboom.com/users/4723246/posts
 [75]: http://timtscott.libsyn.com/rss
 [76]: http://timtscott.libsyn.com/podcast
 [77]: http://feeds.soundcloud.com/users/soundcloud:users:252018984/sounds.rss
