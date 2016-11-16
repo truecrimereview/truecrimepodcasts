@@ -334,7 +334,6 @@ The List is presented in no particular order. It is **not** a ranking. The numbe
 [160]: http://www.redrumredrumgirlsonmurder.com/blog-pocast/?format=rss
 [161]: http://www.redrumredrumgirlsonmurder.com/blog-pocast/
 [162]: http://feeds.soundcloud.com/users/soundcloud:users:251708402/sounds.rss
-[285]: http://truecrimereview.net
 [163]: https://www.voiceamerica.com/rss/itunes/1748
 [164]: https://www.voiceamerica.com/show/1748/pis-declassified
 [165]: http://allkillanofilla.podomatic.com/rss2.xml
@@ -457,3 +456,4 @@ The List is presented in no particular order. It is **not** a ranking. The numbe
 [282]: http://theywalkamonguspodcast.com/
 [283]: http://truecrimeandmysteries.podbean.com/feed/
 [284]: http://truecrimeandmysteries.podbean.com/
+[285]: http://truecrimereview.net
