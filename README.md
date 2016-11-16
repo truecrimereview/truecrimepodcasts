@@ -105,7 +105,7 @@ The List is presented in no particular order. It is **not** a ranking. The numbe
 1.  \[[RSS][156]\] [KCRW's Here Be Monsters][157]
 1.  \[[RSS][158]\] [Criminal][159]
 1.  \[[RSS][160]\] [Blog/ Podcast -- Redrum, Redrum: Girls on Murder][161]
-1.  \[[RSS][162]\] \[True Crime Review\]\[2\]
+1.  \[[RSS][162]\] [True Crime Review][285]
 1.  \[[RSS][163]\] [PI's Declassified!][164]
 1.  \[[RSS][165]\] [All Killa No Filla][166]
 1.  \[[RSS][167]\] [My Favorite Murder with Karen Kilgariff and Georgia Hardstark][168]
@@ -334,6 +334,7 @@ The List is presented in no particular order. It is **not** a ranking. The numbe
 [160]: http://www.redrumredrumgirlsonmurder.com/blog-pocast/?format=rss
 [161]: http://www.redrumredrumgirlsonmurder.com/blog-pocast/
 [162]: http://feeds.soundcloud.com/users/soundcloud:users:251708402/sounds.rss
+[285]: http://truecrimereview.net
 [163]: https://www.voiceamerica.com/rss/itunes/1748
 [164]: https://www.voiceamerica.com/show/1748/pis-declassified
 [165]: http://allkillanofilla.podomatic.com/rss2.xml
