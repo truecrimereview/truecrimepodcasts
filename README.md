@@ -6,8 +6,6 @@
 
 ---
 
-## [As seen on reddit](https://www.reddit.com/r/podcasts/comments/53v2hp/the_big_list_of_true_crime_podcasts/), but now with MORE BETTERNESS!
-
 ### Thanks
 
 Thanks to:
