@@ -148,7 +148,6 @@ The List is presented in no particular order. It is **not** a ranking. The numbe
 1.  \[[RSS][236]\] [Crime-Ridden][237]
 1.  \[[RSS][238]\] [Stranglers][239]
 1.  \[[RSS][240]\] [truecrimereview on Huffduffer][241]
-1.  \[[RSS][242]\] [TCR Shorts][243]
 1.  \[[RSS][244]\] [UK True Crime][245]
 1.  \[[RSS][246]\] [Body on the Moor][247]
 1.  \[[RSS][248]\] [Once Upon A Crime][249]
