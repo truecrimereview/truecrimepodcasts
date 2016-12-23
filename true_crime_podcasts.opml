@@ -4,104 +4,106 @@
 		<title>The Big List of True Crime Podcasts by truecrimereview.net</title>
 	</head>
 	<body>
-		<outline type="rss" text="Last Podcast On The Left" title="Last Podcast On The Left" xmlUrl="http://feeds.feedburner.com/TheLastPodcastOnTheLeft" htmlUrl="http://soundcloud.com/lastpodcastontheleft"/>
-		<outline type="rss" text="Sword and Scale" title="Sword and Scale" xmlUrl="http://feeds.podtrac.com/BsmnaLUsrvIG" htmlUrl="https://art19.com/shows/sword-and-scale"/>
-		<outline type="rss" text="Crime Writers On..." title="Crime Writers On..." xmlUrl="http://feeds.feedburner.com/crimewritersonserial" htmlUrl="https://art19.com/shows/crime-writers-on"/>
-		<outline type="rss" text="White Wine True Crime!" title="White Wine True Crime!" xmlUrl="http://whitewinetruecrime.com/feed/podcast/" htmlUrl="http://whitewinetruecrime.com/"/>
-		<outline type="rss" text="Who Killed Elsie Frost?" title="Who Killed Elsie Frost?" xmlUrl="http://www.bbc.co.uk/programmes/p02vn2mt/episodes/downloads.rss" htmlUrl="http://www.bbc.co.uk/programmes/p02vn2mt"/>
-		<outline type="rss" text="What The Crime?!" title="What The Crime?!" xmlUrl="http://feeds.feedburner.com/WhatTheCrime" htmlUrl="http://www.crimefeed.com/"/>
-		<outline type="rss" text="Real Crime Profile" title="Real Crime Profile" xmlUrl="http://rss.art19.com/real-crime-profile" htmlUrl="https://art19.com/shows/real-crime-profile"/>
-		<outline type="rss" text="Remarkable Lives. Tragic Deaths." title="Remarkable Lives. Tragic Deaths." xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:242596778/sounds.rss" htmlUrl="http://www.parcast.com/"/>
-		<outline type="rss" text="Snapped - The Podcast" title="Snapped - The Podcast" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:247644481/sounds.rss" htmlUrl="http://oxygen.com/snapped"/>
-		<outline type="rss" text="Day-by-Day: The Nick Hillary Trial" title="Day-by-Day: The Nick Hillary Trial" xmlUrl="http://www.northcountrypublicradio.org/hillarytrialRSSPodcast.php" htmlUrl="http://www.northcountrypublicradio.org/"/>
-		<outline type="rss" text="OFFSHORE" title="OFFSHORE" xmlUrl="http://feeds.civilbeat.org/civilbeatoffshore" htmlUrl="http://offshorepodcast.com/"/>
-		<outline type="rss" text="True Crime Fan Club Podcast" title="True Crime Fan Club Podcast" xmlUrl="https://truecrimefanclub.com/feed/podcast/" htmlUrl="https://truecrimefanclub.com/"/>
-		<outline type="rss" text="Beyond the Blood" title="Beyond the Blood" xmlUrl="http://beyondblood.podbean.com/feed/" htmlUrl="http://beyondblood.podbean.com/"/>
-		<outline type="rss" text="Rippercast- Your Podcast on the Jack the Ripper murders" title="Rippercast- Your Podcast on the Jack the Ripper murders" xmlUrl="http://www.casebook.org/podcast/rss.xml" htmlUrl="http://www.casebook.org/podcast"/>
-		<outline type="rss" text="GIMG.tv - A podcast devoted to Private Investigators" title="GIMG.tv - A podcast devoted to Private Investigators" xmlUrl="http://feeds.feedburner.com/Gimgnetwork" htmlUrl="http://gimg.tv/"/>
-		<outline type="rss" text="Coroner Talk&#x2122; | Death Investigation Training | Police and Law Enforcement" title="Coroner Talk&#x2122; | Death Investigation Training | Police and Law Enforcement" xmlUrl="http://coronertalk.com/feed/podcast" htmlUrl="http://coronertalk.com/"/>
-		<outline type="rss" text="Breakdown" title="Breakdown" xmlUrl="http://feeds.feedburner.com/BreakdownPodcast" htmlUrl="http://ajcbreakdown.com/"/>
-		<outline type="rss" text="Detective" title="Detective" xmlUrl="http://netstorage.discovery.com/id/podcasts/2015/DetectivePodcast.xml" htmlUrl="http://www.investigationdiscovery.com/"/>
-		<outline type="rss" text="The Dollop with Dave Anthony and Gareth Reynolds" title="The Dollop with Dave Anthony and Gareth Reynolds" xmlUrl="http://thedollop.libsyn.com/rss" htmlUrl="https://www.facebook.com/thedollop"/>
-		<outline type="rss" text="Crime + Investigation Podcast" title="Crime + Investigation Podcast" xmlUrl="http://crimeandinvestigation.podbean.com/feed/" htmlUrl="http://crimeandinvestigation.podbean.com/"/>
-		<outline type="rss" text="This Week in True Crime History" title="This Week in True Crime History" xmlUrl="http://thisweekintruecrime.libsyn.com/rss" htmlUrl="http://www.facebook.com/groups/thisweekintruecrime"/>
-		<outline type="rss" text="True Crime Japan Podcast" title="True Crime Japan Podcast" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:221945739/sounds.rss" htmlUrl="http://www.southerndojo.com/truecrimejapan"/>
-		<outline type="rss" text="IRE Radio Podcast" title="IRE Radio Podcast" xmlUrl="http://feeds.feedburner.com/ire-nicar" htmlUrl="http://www.ire.org/"/>
-		<outline type="rss" text="Lore" title="Lore" xmlUrl="http://lorepodcast.libsyn.com/rss" htmlUrl="http://www.lorepodcast.com/"/>
-		<outline type="rss" text="Wanted by the FBI podcast" title="Wanted by the FBI podcast" xmlUrl="https://www.fbi.gov/news/podcasts/wanted/archive/itunes.xml" htmlUrl="https://www.fbi.gov/feeds/wanted-by-the-fbi-podcast"/>
-		<outline type="rss" text="Undisclosed" title="Undisclosed" xmlUrl="https://audioboom.com/channels/3709182.rss" htmlUrl="https://audioboom.com/channel/undisclosed"/>
-		<outline type="rss" text="Nocturne" title="Nocturne" xmlUrl="http://www.nocturnepodcast.org/feed/podcast/" htmlUrl="http://www.nocturnepodcast.org/"/>
-		<outline type="rss" text="Truth &amp; Justice with Bob Ruff" title="Truth &amp; Justice with Bob Ruff" xmlUrl="https://audioboom.com/channels/4384694.rss" htmlUrl="https://audioboom.com/channel/the-serial-dynasty"/>
-		<outline type="rss" text="What Happened To Vishal?" title="What Happened To Vishal?" xmlUrl="http://lbc.audioagain.com/podcast.php?channel=vishal" htmlUrl="http://www.lbc.co.uk/vishal"/>
-		<outline type="rss" text="FBI Retired Case File Review with Jerri Williams" title="FBI Retired Case File Review with Jerri Williams" xmlUrl="http://jerriwilliams.com/feed/podcast/" htmlUrl="http://jerriwilliams.com/"/>
-		<outline type="rss" text="Crime Time &#x2013; MP3" title="Crime Time &#x2013; MP3" xmlUrl="http://thelip.tv/feed/httpthelip-tvcrime-timeaudio2/" htmlUrl="http://thelip.tv/show/crime-time/"/>
-		<outline type="rss" text="Tricia Griffith Show" title="Tricia Griffith Show" xmlUrl="http://www.spreaker.com/user/7039907/episodes/feed" htmlUrl="http://www.spreaker.com/user/triciag"/>
-		<outline type="rss" text="Mysterious Circumstances" title="Mysterious Circumstances" xmlUrl="http://www.buzzsprout.com/60143.rss" htmlUrl="http://mysteriouscircumstances.buzzsprout.com/"/>
-		<outline type="rss" text="Forensic Geek Radio" title="Forensic Geek Radio" xmlUrl="http://forensicgeekradio.libsyn.com/rss" htmlUrl="http://www.forensicgeek.science/"/>
-		<outline type="rss" text="Listen With The Lights On" title="Listen With The Lights On" xmlUrl="http://feeds.podtrac.com/n9rCoi_mvT2f" htmlUrl="http://wamcpodcasts.org/"/>
-		<outline type="rss" text="Crime Time" title="Crime Time" xmlUrl="http://www.blogtalkradio.com/crimetimeradio/podcast" htmlUrl="http://www.blogtalkradio.com/crimetimeradio"/>
-		<outline type="rss" text="The Apex &amp; The Abyss" title="The Apex &amp; The Abyss" xmlUrl="https://audioboom.com/channels/4746893.rss" htmlUrl="https://audioboom.com/channel/apexandabyss"/>
-		<outline type="rss" text="All Things Awful with Adam &amp; Alex" title="All Things Awful with Adam &amp; Alex" xmlUrl="http://allthingsawful.libsyn.com/rss" htmlUrl="http://allthingsawful.libsyn.com/podcast"/>
+		<outline type="rss" text="The New York City Crime Report with Pat Dixon" title="The New York City Crime Report with Pat Dixon" xmlUrl="http://nyccrimereport.libsyn.com/rss" htmlUrl="http://nyccrimereport.libsyn.com/webpage"/>
 		<outline type="rss" text="Crime and Mystery" title="Crime and Mystery" xmlUrl="http://www.blogtalkradio.com/kimnkjel/podcast" htmlUrl="http://www.blogtalkradio.com/kimnkjel"/>
-		<outline type="rss" text="The Conspirators Podcast" title="The Conspirators Podcast" xmlUrl="http://www.theconspiratorspodcast.com/feed/podcast/" htmlUrl="http://www.theconspiratorspodcast.com/"/>
-		<outline type="rss" text="Mean Old World" title="Mean Old World" xmlUrl="http://www.meanoldworld.com/meanoldworldeps?format=RSS" htmlUrl="http://www.meanoldworld.com/meanoldworldeps/"/>
-		<outline type="rss" text="Unsolved Podcast" title="Unsolved Podcast" xmlUrl="http://unsolvedpodcast.libsyn.com/rss" htmlUrl="http://www.unsolvedpodcast.com/"/>
-		<outline type="rss" text="This Is Actually Happening" title="This Is Actually Happening" xmlUrl="http://feeds.misfitrad.io/happening" htmlUrl="http://misfitrad.io/happening"/>
-		<outline type="rss" text="Unraveled" title="Unraveled" xmlUrl="http://www.unraveledpod.com/feed/podcast/" htmlUrl="http://www.unraveledpod.com/"/>
-		<outline type="rss" text="Talking Crime" title="Talking Crime" xmlUrl="http://www.spreaker.com/user/9260385/episodes/feed" htmlUrl="https://www.spreaker.com/user/talkingcrime"/>
-		<outline type="rss" text="Africa Investigates" title="Africa Investigates" xmlUrl="http://iono.fm/rss/chan/2553" htmlUrl="http://iono.fm/channel/2553"/>
 		<outline type="rss" text="Missing Maura Murray" title="Missing Maura Murray" xmlUrl="https://audioboom.com/channels/4842113.rss" htmlUrl="https://audioboom.com/channel/missing-maura-murray"/>
-		<outline type="rss" text="First and Felony &#x2013; A True Crime Podcast" title="First and Felony &#x2013; A True Crime Podcast" xmlUrl="http://feeds.feedburner.com/ffpod/seGU" htmlUrl="https://ffpod.net/"/>
-		<outline type="rss" text="Astonishing Legends" title="Astonishing Legends" xmlUrl="https://audioboom.com/channels/4322549.rss" htmlUrl="https://audioboom.com/channel/astonishing-legends"/>
-		<outline type="rss" text="Within the Trenches" title="Within the Trenches" xmlUrl="http://www.thejabberlog.com/category/within-the-trenches/feed/" htmlUrl="http://www.thejabberlog.com/category/within-the-trenches/"/>
 		<outline type="rss" text="Most Notorious! A True Crime History Podcast" title="Most Notorious! A True Crime History Podcast" xmlUrl="https://audioboom.com/channels/4749136.rss" htmlUrl="https://audioboom.com/channel/most-notorious"/>
 		<outline type="rss" text="Unsolved" title="Unsolved" xmlUrl="https://audioboom.com/channels/4655198.rss" htmlUrl="https://audioboom.com/channel/unsolved"/>
-		<outline type="rss" text="48 Hours" title="48 Hours" xmlUrl="https://api.radio.com/v2/podcast/rss/1222?format=MP3_128K" htmlUrl="http://radio.com/audio"/>
 		<outline type="rss" text="The Vanished Podcast" title="The Vanished Podcast" xmlUrl="http://thevanishedpodcast.libsyn.com/rss" htmlUrl="http://thevanishedpodcast.com/"/>
 		<outline type="rss" text="Crime In Sports" title="Crime In Sports" xmlUrl="https://audioboom.com/channels/4662186.rss" htmlUrl="https://audioboom.com/channel/crime-in-sports"/>
-		<outline type="rss" text="History Dweebs" title="History Dweebs" xmlUrl="http://timtscott.libsyn.com/rss" htmlUrl="http://timtscott.libsyn.com/podcast"/>
-		<outline type="rss" text="ABC News 20/20" title="ABC News 20/20" xmlUrl="http://abcnews.go.com/xmldata/xmlpodcast?id=30146791" htmlUrl="http://www.abcnewspodcasts.com/"/>
 		<outline type="rss" text="Bowraville" title="Bowraville" xmlUrl="https://www.whooshkaa.com/rss/podcast/id/1117" htmlUrl="https://www.whooshkaa.com/shows/bowraville"/>
-		<outline type="rss" text="Felon True Crime Podcast" title="Felon True Crime Podcast" xmlUrl="https://audioboom.com/channels/4835137.rss" htmlUrl="https://audioboom.com/channel/felontruecrime"/>
 		<outline type="rss" text="Unsolved Murders: True Crime Stories" title="Unsolved Murders: True Crime Stories" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:224506341/sounds.rss" htmlUrl="http://www.parcast.com/"/>
+		<outline type="rss" text="Judge and Jeremy" title="Judge and Jeremy" xmlUrl="http://judgeandjeremy.libsyn.com/rss" htmlUrl="http://www.judgeandjeremy.com/"/>
+		<outline type="rss" text="Court Junkie" title="Court Junkie" xmlUrl="http://courtjunkie.libsyn.com/rss" htmlUrl="http://courtjunkie.com/"/>
+		<outline type="rss" text="In the Dark" title="In the Dark" xmlUrl="http://feeds.publicradio.org/public_feeds/in-the-dark/itunes/rss" htmlUrl="http://www.apmreports.org/in-the-dark"/>
+		<outline type="rss" text="Up and Vanished" title="Up and Vanished" xmlUrl="https://audioboom.com/channels/4811953.rss" htmlUrl="https://audioboom.com/channel/up-and-vanished"/>
+		<outline type="rss" text="S'laughter: True Crime Podcast" title="S'laughter: True Crime Podcast" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:264650643/sounds.rss" htmlUrl="http://soundcloud.com/slaughterthepodcast"/>
+		<outline type="rss" text="Crime &amp; Precedents" title="Crime &amp; Precedents" xmlUrl="http://crimeandprecedents.libsyn.com/rss" htmlUrl="http://crimeandprecedents.libsyn.com/podcast"/>
+		<outline type="rss" text="In the Dark" title="In the Dark" xmlUrl="https://feeds.publicradio.org/public_feeds/in-the-dark/itunes/rss" htmlUrl="http://www.apmreports.org/in-the-dark"/>
+		<outline type="rss" text="The Dollop with Dave Anthony and Gareth Reynolds" title="The Dollop with Dave Anthony and Gareth Reynolds" xmlUrl="http://thedollop.libsyn.com/rss" htmlUrl="https://www.facebook.com/thedollop"/>
+		<outline type="rss" text="Crime and Justice with Dan Schorr" title="Crime and Justice with Dan Schorr" xmlUrl="http://danschorr.hipcast.com/rss/crime_and_justice_with_dan_schorr.xml" htmlUrl="http://danschorr.hipcast.com/podcast/Hn8dJb"/>
+		<outline type="rss" text="IRE Radio Podcast" title="IRE Radio Podcast" xmlUrl="http://feeds.feedburner.com/ire-nicar" htmlUrl="http://www.ire.org/"/>
+		<outline type="rss" text="Lore" title="Lore" xmlUrl="http://lorepodcast.libsyn.com/rss" htmlUrl="http://www.lorepodcast.com/"/>
+		<outline type="rss" text="Undisclosed" title="Undisclosed" xmlUrl="https://audioboom.com/channels/3709182.rss" htmlUrl="https://audioboom.com/channel/undisclosed"/>
+		<outline type="rss" text="All Things Awful with Adam &amp; Alex" title="All Things Awful with Adam &amp; Alex" xmlUrl="http://allthingsawful.libsyn.com/rss" htmlUrl="http://allthingsawful.libsyn.com/podcast"/>
+		<outline type="rss" text="Unsolved Podcast" title="Unsolved Podcast" xmlUrl="http://unsolvedpodcast.libsyn.com/rss" htmlUrl="http://www.unsolvedpodcast.com/"/>
+		<outline type="rss" text="Africa Investigates" title="Africa Investigates" xmlUrl="http://iono.fm/rss/chan/2553" htmlUrl="http://iono.fm/channel/2553"/>
+		<outline type="rss" text="First and Felony &#x2013; A True Crime Podcast" title="First and Felony &#x2013; A True Crime Podcast" xmlUrl="http://feeds.feedburner.com/ffpod/seGU" htmlUrl="https://ffpod.net/"/>
+		<outline type="rss" text="Felon True Crime Podcast" title="Felon True Crime Podcast" xmlUrl="https://audioboom.com/channels/4835137.rss" htmlUrl="https://audioboom.com/channel/felontruecrime"/>
 		<outline type="rss" text="Deathcast" title="Deathcast" xmlUrl="http://feeds.feedburner.com/deathcastpodcast" htmlUrl="https://audioboom.com/channel/deathcast"/>
-		<outline type="rss" text="Reveal" title="Reveal" xmlUrl="http://feeds.revealradio.org/revealpodcast" htmlUrl="http://www.revealnews.org/"/>
-		<outline type="rss" text="Punt PI" title="Punt PI" xmlUrl="http://www.bbc.co.uk/programmes/b00krfns/episodes/downloads.rss" htmlUrl="http://www.bbc.co.uk/programmes/b00krfns"/>
-		<outline type="rss" text="True Crime Garage" title="True Crime Garage" xmlUrl="http://truecrimegarage.podbean.com/feed/" htmlUrl="http://truecrimegarage.podbean.com/"/>
-		<outline type="rss" text="Finding Tammy Jo" title="Finding Tammy Jo" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:217526025/sounds.rss" htmlUrl="http://www.findingtammyjo.com/"/>
+		<outline type="rss" text="Crime Time &#x2013; MP3" title="Crime Time &#x2013; MP3" xmlUrl="http://thelip.tv/feed/httpthelip-tvcrime-timeaudio2/" htmlUrl="http://thelip.tv/show/crime-time/"/>
+		<outline type="rss" text="Tricia Griffith Show" title="Tricia Griffith Show" xmlUrl="http://www.spreaker.com/user/7039907/episodes/feed" htmlUrl="http://www.spreaker.com/user/triciag"/>
+		<outline type="rss" text="Forensic Geek Radio" title="Forensic Geek Radio" xmlUrl="http://forensicgeekradio.libsyn.com/rss" htmlUrl="http://www.forensicgeek.science/"/>
+		<outline type="rss" text="Listen With The Lights On" title="Listen With The Lights On" xmlUrl="http://feeds.podtrac.com/n9rCoi_mvT2f" htmlUrl="https://wamcpodcasts.org/"/>
+		<outline type="rss" text="The Apex &amp; The Abyss" title="The Apex &amp; The Abyss" xmlUrl="https://audioboom.com/channels/4746893.rss" htmlUrl="https://audioboom.com/channel/apexandabyss"/>
+		<outline type="rss" text="The Conspirators Podcast" title="The Conspirators Podcast" xmlUrl="http://www.theconspiratorspodcast.com/feed/podcast/" htmlUrl="http://www.theconspiratorspodcast.com/"/>
+		<outline type="rss" text="Unraveled" title="Unraveled" xmlUrl="http://www.unraveledpod.com/feed/podcast/" htmlUrl="http://www.unraveledpod.com/"/>
+		<outline type="rss" text="This Is Actually Happening" title="This Is Actually Happening" xmlUrl="http://feeds.misfitrad.io/happening" htmlUrl="http://misfitrad.io/happening"/>
+		<outline type="rss" text="Astonishing Legends" title="Astonishing Legends" xmlUrl="https://audioboom.com/channels/4322549.rss" htmlUrl="https://audioboom.com/channel/astonishing-legends"/>
+		<outline type="rss" text="Rippercast- Your Podcast on the Jack the Ripper murders" title="Rippercast- Your Podcast on the Jack the Ripper murders" xmlUrl="http://www.casebook.org/podcast/rss.xml" htmlUrl="http://www.casebook.org/podcast"/>
+		<outline type="rss" text="Last Podcast On The Left" title="Last Podcast On The Left" xmlUrl="http://feeds.feedburner.com/TheLastPodcastOnTheLeft" htmlUrl="http://soundcloud.com/lastpodcastontheleft"/>
+		<outline type="rss" text="Within the Trenches" title="Within the Trenches" xmlUrl="http://www.thejabberlog.com/category/within-the-trenches/feed/" htmlUrl="http://www.thejabberlog.com/category/within-the-trenches/"/>
+		<outline type="rss" text="History Dweebs" title="History Dweebs" xmlUrl="http://timtscott.libsyn.com/rss" htmlUrl="http://timtscott.libsyn.com/podcast"/>
 		<outline type="rss" text="The Trail Went Cold" title="The Trail Went Cold" xmlUrl="http://trailwentcold.com/feed/podcast/" htmlUrl="http://trailwentcold.com/"/>
-		<outline type="rss" text="Serial" title="Serial" xmlUrl="http://feeds.serialpodcast.org/serialpodcast" htmlUrl="https://serialpodcast.org/"/>
-		<outline type="rss" text="Liar City" title="Liar City" xmlUrl="http://liarcity.libsyn.com/rss" htmlUrl="http://www.liarcity.com/"/>
-		<outline type="rss" text="Gangland Wire" title="Gangland Wire" xmlUrl="http://ganglandwire.com/feed/podcast/" htmlUrl="http://ganglandwire.com/"/>
-		<outline type="rss" text="Already Gone Podcast" title="Already Gone Podcast" xmlUrl="http://alreadygonepodcast.libsyn.com/rss" htmlUrl="https://audioboom.com/channel/already-gone-podcast"/>
-		<outline type="rss" text="The Lineup Podcast" title="The Lineup Podcast" xmlUrl="http://www.the-line-up.com/feed/podcast/" htmlUrl="http://www.the-line-up.com/"/>
-		<outline type="rss" text="Brutal Ends" title="Brutal Ends" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:190761422/sounds.rss" htmlUrl="http://www.brutalends.com/"/>
-		<outline type="rss" text="True Crime Historian" title="True Crime Historian" xmlUrl="https://audioboom.com/channels/4639802.rss" htmlUrl="https://audioboom.com/channel/true-crime-historian"/>
 		<outline type="rss" text="Untold: The Daniel Morgan Murder" title="Untold: The Daniel Morgan Murder" xmlUrl="http://rss.acast.com/untoldmurder" htmlUrl="http://www.untoldmurder.com/"/>
-		<outline type="rss" text="The Murdertown Chronicles" title="The Murdertown Chronicles" xmlUrl="http://feeds.feedburner.com/murdertown" htmlUrl="http://remaking.murdertown.us/"/>
 		<outline type="rss" text="Twisted Podcast" title="Twisted Podcast" xmlUrl="http://twistedpodcast.libsyn.com/rss" htmlUrl="http://twistedpodcast.com/"/>
-		<outline type="rss" text="Crime Historian" title="Crime Historian" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:252018984/sounds.rss" htmlUrl="http://crimehistorian.com/"/>
+		<outline type="rss" text="True Crime Review" title="True Crime Review" xmlUrl="http://feeds.podtrac.com/IhG4GFjGedci" htmlUrl="http://truecrimereview.net/"/>
+		<outline type="rss" text="Phoebe's Fall" title="Phoebe's Fall" xmlUrl="https://www.whooshkaa.com/rss/podcast/id/1250" htmlUrl="http://www.theage.com.au/interactive/2016/phoebesfall/"/>
+		<outline type="rss" text="Sword and Scale" title="Sword and Scale" xmlUrl="http://feeds.podtrac.com/BsmnaLUsrvIG" htmlUrl="https://art19.com/shows/sword-and-scale"/>
+		<outline type="rss" text="48 Hours" title="48 Hours" xmlUrl="https://api.radio.com/v2/podcast/rss/1222?format=MP3_128K" htmlUrl="http://radio.com/audio"/>
+		<outline type="rss" text="ABC News 20/20" title="ABC News 20/20" xmlUrl="http://abcnews.go.com/xmldata/xmlpodcast?id=30146791" htmlUrl="http://www.abcnewspodcasts.com/"/>
+		<outline type="rss" text="GIMG.tv - A podcast devoted to Private Investigators" title="GIMG.tv - A podcast devoted to Private Investigators" xmlUrl="http://feeds.feedburner.com/Gimgnetwork" htmlUrl="http://gimg.tv/"/>
+		<outline type="rss" text="Crime Writers On..." title="Crime Writers On..." xmlUrl="https://rss.art19.com/crime-writers-on" htmlUrl="https://art19.com/shows/crime-writers-on"/>
+		<outline type="rss" text="Coroner Talk&#x2122; | Death Investigation Training | Police and Law Enforcement" title="Coroner Talk&#x2122; | Death Investigation Training | Police and Law Enforcement" xmlUrl="http://coronertalk.com/feed/podcast" htmlUrl="http://coronertalk.com/"/>
+		<outline type="rss" text="White Wine True Crime!" title="White Wine True Crime!" xmlUrl="http://whitewinetruecrime.com/feed/podcast/" htmlUrl="http://whitewinetruecrime.com/"/>
+		<outline type="rss" text="Who Killed Elsie Frost?" title="Who Killed Elsie Frost?" xmlUrl="http://www.bbc.co.uk/programmes/p02vn2mt/episodes/downloads.rss" htmlUrl="http://www.bbc.co.uk/programmes/p02vn2mt"/>
+		<outline type="rss" text="Facing Evil with Candice DeLong" title="Facing Evil with Candice DeLong" xmlUrl="http://netstorage.discovery.com/id/podcasts/2015/FacingEvilRSS.xml" htmlUrl="http://www.investigationdiscovery.com/"/>
 		<outline type="rss" text="True Murder: The Most Shocking Killers in True Crime History and the Authors That Have Written About Them" title="True Murder: The Most Shocking Killers in True Crime History and the Authors That Have Written About Them" xmlUrl="http://www.blogtalkradio.com/dan-zupansky1/podcast" htmlUrl="http://www.blogtalkradio.com/dan-zupansky1"/>
 		<outline type="rss" text="KCRW's Here Be Monsters" title="KCRW's Here Be Monsters" xmlUrl="http://feeds.feedburner.com/herebemonsterspodcast/" htmlUrl="http://www.kcrw.com/news-culture/shows/here-be-monsters"/>
 		<outline type="rss" text="Criminal" title="Criminal" xmlUrl="http://feeds.feedburner.com/CriminalShow" htmlUrl="http://thisiscriminal.com/"/>
-		<outline type="rss" text="Blog/ Podcast - Redrum, Redrum: Girls on Murder" title="Blog/ Podcast - Redrum, Redrum: Girls on Murder" xmlUrl="http://www.redrumredrumgirlsonmurder.com/blog-pocast/?format=rss" htmlUrl="http://www.redrumredrumgirlsonmurder.com/blog-pocast/"/>
-		<outline type="rss" text="True Crime Review" title="True Crime Review" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:251708402/sounds.rss" htmlUrl="http://truecrimereview.net/"/>
+		<outline type="rss" text="True Crime Garage" title="True Crime Garage" xmlUrl="http://truecrimegarage.podbean.com/feed/" htmlUrl="http://truecrimegarage.podbean.com/"/>
+		<outline type="rss" text="Finding Tammy Jo" title="Finding Tammy Jo" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:217526025/sounds.rss" htmlUrl="http://www.findingtammyjo.com/"/>
+		<outline type="rss" text="Breakdown" title="Breakdown" xmlUrl="http://feeds.feedburner.com/BreakdownPodcast" htmlUrl="http://ajcbreakdown.com/"/>
+		<outline type="rss" text="What The Crime?!" title="What The Crime?!" xmlUrl="http://feeds.feedburner.com/WhatTheCrime" htmlUrl="http://www.crimefeed.com/"/>
+		<outline type="rss" text="Already Gone Podcast" title="Already Gone Podcast" xmlUrl="http://alreadygonepodcast.libsyn.com/rss" htmlUrl="https://audioboom.com/channel/already-gone-podcast"/>
+		<outline type="rss" text="The Murdertown Chronicles" title="The Murdertown Chronicles" xmlUrl="http://feeds.feedburner.com/murdertown" htmlUrl="http://remaking.murdertown.us/"/>
+		<outline type="rss" text="Detective" title="Detective" xmlUrl="http://netstorage.discovery.com/id/podcasts/2015/DetectivePodcast.xml" htmlUrl="http://www.investigationdiscovery.com/"/>
+		<outline type="rss" text="Unprisoned: Stories From The System" title="Unprisoned: Stories From The System" xmlUrl="http://wwno.org/podcasts/90348/rss.xml" htmlUrl="http://wwno.org/"/>
 		<outline type="rss" text="PI&#x2019;s Declassified!" title="PI&#x2019;s Declassified!" xmlUrl="https://www.voiceamerica.com/rss/itunes/1748" htmlUrl="https://www.voiceamerica.com/show/1748/pis-declassified"/>
+		<outline type="rss" text="Crime Historian" title="Crime Historian" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:252018984/sounds.rss" htmlUrl="http://crimehistorian.com/"/>
+		<outline type="rss" text="Noir Factory Podcast" title="Noir Factory Podcast" xmlUrl="http://noirfactory.libsyn.com/rss" htmlUrl="http://noirfactory.libsyn.com/podcast"/>
+		<outline type="rss" text="Crime + Investigation Podcast" title="Crime + Investigation Podcast" xmlUrl="http://crimeandinvestigation.podbean.com/feed/" htmlUrl="http://crimeandinvestigation.podbean.com/"/>
+		<outline type="rss" text="Real Crime Profile" title="Real Crime Profile" xmlUrl="http://rss.art19.com/real-crime-profile" htmlUrl="https://art19.com/shows/real-crime-profile"/>
+		<outline type="rss" text="Remarkable Lives. Tragic Deaths." title="Remarkable Lives. Tragic Deaths." xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:242596778/sounds.rss" htmlUrl="http://www.parcast.com/"/>
 		<outline type="rss" text="All Killa No Filla" title="All Killa No Filla" xmlUrl="http://allkillanofilla.podomatic.com/rss2.xml" htmlUrl="http://allkillanofilla.podomatic.com/"/>
-		<outline type="rss" text="My Favorite Murder with Karen Kilgariff and Georgia Hardstark" title="My Favorite Murder with Karen Kilgariff and Georgia Hardstark" xmlUrl="http://rss.art19.com/my-favorite-murder-with-karen-kilgariff-and-georgia-hardstark" htmlUrl="http://www.feralaudio.com/show/my-favorite-murder/"/>
+		<outline type="rss" text="Junction" title="Junction" xmlUrl="http://junction.libsyn.com/rss" htmlUrl="http://junctionpodcast.com/"/>
+		<outline type="rss" text="The Principled Uncertainty Podcast" title="The Principled Uncertainty Podcast" xmlUrl="http://principleduncertainty.libsyn.com/rss" htmlUrl="http://principleduncertainty.libsyn.com/"/>
 		<outline type="rss" text="Thin Air Podcast" title="Thin Air Podcast" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:195872493/sounds.rss" htmlUrl="http://www.thinairpodcast.com/"/>
 		<outline type="rss" text="Someone Knows Something" title="Someone Knows Something" xmlUrl="http://www.cbc.ca/podcasting/includes/sks.xml" htmlUrl="http://www.cbc.ca/podcasting"/>
 		<outline type="rss" text="Lohud Crime Scene" title="Lohud Crime Scene" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:210839865/sounds.rss" htmlUrl="http://soundcloud.com/lohud-crime-scene"/>
 		<outline type="rss" text="Curiosity Kills" title="Curiosity Kills" xmlUrl="http://curiositykillspodcast.com/category/true-crime/feed/" htmlUrl="https://curiositykillspodcast.com/"/>
 		<outline type="rss" text="EXPLOITED: Crimes Against Humanity" title="EXPLOITED: Crimes Against Humanity" xmlUrl="http://www.voiceamerica.com/rss/itunes/2560" htmlUrl="https://www.voiceamerica.com/show/2560/exploited-crimes-against-humanity"/>
 		<outline type="rss" text="The Unresolved Podcast" title="The Unresolved Podcast" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:179182212/sounds.rss" htmlUrl="http://theunresolvedpodcast.com/"/>
+		<outline type="rss" text="Mysteries Abound" title="Mysteries Abound" xmlUrl="http://recordings.talkshoe.com/rss21864.xml" htmlUrl="http://www.talkshoe.com/talkshoe/web/tscmd/tc/21864"/>
 		<outline type="rss" text="True Crime Brewery" title="True Crime Brewery" xmlUrl="http://tiegrabber.com/index.php/feed/podcast/" htmlUrl="http://www.tiegrabber.com/truecrimebrewery/"/>
-		<outline type="rss" text="Casefile True Crime" title="Casefile True Crime" xmlUrl="http://casefile.libsyn.com/rss" htmlUrl="http://www.casefilepodcast.com/"/>
-		<outline type="rss" text="Phoebe's Fall" title="Phoebe's Fall" xmlUrl="https://www.whooshkaa.com/rss/podcast/id/1250" htmlUrl="http://www.theage.com.au/interactive/2016/phoebesfall/"/>
 		<outline type="rss" text="The Nowhere Dispatch" title="The Nowhere Dispatch" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:215204471/sounds.rss" htmlUrl="http://nowhere-dispatch.com/"/>
+		<outline type="rss" text="The Generation Why Podcast" title="The Generation Why Podcast" xmlUrl="http://thegenerationwhypodcast.com/feed/category/podcast" htmlUrl="http://thegenerationwhypodcast.com/"/>
+		<outline type="rss" text="The Night Time Podcast" title="The Night Time Podcast" xmlUrl="https://audioboom.com/channels/4748686.rss" htmlUrl="https://audioboom.com/channel/the-night-time-podcast"/>
 		<outline type="rss" text="America's Missing Podcast" title="America's Missing Podcast" xmlUrl="http://americasmissingpodcast.libsyn.com/rss" htmlUrl="http://americasmissingpodcast.libsyn.com/podcast"/>
 		<outline type="rss" text="American CrimeCast" title="American CrimeCast" xmlUrl="https://audioboom.com/channels/4832195.rss" htmlUrl="https://audioboom.com/channel/american-crimecast"/>
-		<outline type="rss" text="Body on the Moor" title="Body on the Moor" xmlUrl="http://www.bbc.co.uk/programmes/p03wy14r/episodes/downloads.rss" htmlUrl="http://www.bbc.co.uk/programmes/p03wy14r"/>
+		<outline type="rss" text="Unexplained" title="Unexplained" xmlUrl="http://rss.acast.com/unexplained" htmlUrl="http://www.unexplainedpodcast.com/"/>
+		<outline type="rss" text="Cancrime" title="Cancrime" xmlUrl="http://www.cancrime.com/feed/podcast/" htmlUrl="http://www.cancrime.com/"/>
+		<outline type="rss" text="Monograph" title="Monograph" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:186639626/sounds.rss" htmlUrl="http://taaron.xyz/"/>
+		<outline type="rss" text="Thinking Sideways Podcast" title="Thinking Sideways Podcast" xmlUrl="http://thinkingsidewayspodcast.libsyn.com/rss" htmlUrl="http://thinkingsidewayspodcast.com/"/>
+		<outline type="rss" text="Actual Innocence" title="Actual Innocence" xmlUrl="https://audioboom.com/channels/4728027.rss" htmlUrl="https://audioboom.com/channel/actualinnocence"/>
+		<outline type="rss" text="Gone Podcast" title="Gone Podcast" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:222318651/sounds.rss" htmlUrl="http://soundcloud.com/justin-armstrong-233778459"/>
+		<outline type="rss" text="Daily Mystery Pod" title="Daily Mystery Pod" xmlUrl="http://UnresolvedMysteries.podbean.com/feed/" htmlUrl="http://dailymysteriespod.podbean.com/"/>
+		<outline type="rss" text="TwistedPhilly" title="TwistedPhilly" xmlUrl="http://twistedphilly.com/feed/podcast/" htmlUrl="http://twistedphilly.com/"/>
+		<outline type="rss" text="Hollywoodland: Unsolved" title="Hollywoodland: Unsolved" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:255148939/sounds.rss" htmlUrl="http://www.hollywoodlandpod.com/"/>
+		<outline type="rss" text="Fortune Killer - Dead and Buried" title="Fortune Killer - Dead and Buried" xmlUrl="http://www.deadandburiedpodcast.com/fortune-killer?format=rss" htmlUrl="http://www.deadandburiedpodcast.com/fortune-killer/"/>
+		<outline type="rss" text="Dead and Buried Podcast - Dead and Buried" title="Dead and Buried Podcast - Dead and Buried" xmlUrl="http://www.deadandburiedpodcast.com/dead-and-buried-podcast?format=rss" htmlUrl="http://www.deadandburiedpodcast.com/dead-and-buried-podcast/"/>
+		<outline type="rss" text="This Week in True Crime History" title="This Week in True Crime History" xmlUrl="http://thisweekintruecrime.libsyn.com/rss" htmlUrl="http://www.facebook.com/groups/thisweekintruecrime"/>
+		<outline type="rss" text="True Crime Japan Podcast" title="True Crime Japan Podcast" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:221945739/sounds.rss" htmlUrl="http://www.southerndojo.com/truecrimejapan"/>
 		<outline type="rss" text="SinisterStream Podcast" title="SinisterStream Podcast" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:225547925/sounds.rss" htmlUrl="http://www.sinisterstream.com/"/>
 		<outline type="rss" text="Murderers and Their Mothers: The Debrief" title="Murderers and Their Mothers: The Debrief" xmlUrl="http://rss.acast.com/murderersandtheirmothers" htmlUrl="http://www.cbsreality.co.uk/"/>
 		<outline type="rss" text="Mysterious Disappearances" title="Mysterious Disappearances" xmlUrl="http://feeds.feedburner.com/MysteriousDisappearances" htmlUrl="http://lancasterpodcaststudio.com/"/>
@@ -110,42 +112,68 @@
 		<outline type="rss" text="The Serial Killer Podcast" title="The Serial Killer Podcast" xmlUrl="http://theserialkillerpodcast.libsyn.com/rss" htmlUrl="http://theserialkillerpodcast.libsyn.com/podcast"/>
 		<outline type="rss" text="juvie" title="juvie" xmlUrl="http://juviepodcast.com/feed/podcast/" htmlUrl="http://juviepodcast.com/"/>
 		<outline type="rss" text="Still At Large Podcast" title="Still At Large Podcast" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:220858927/sounds.rss" htmlUrl="http://soundcloud.com/still-at-large-podcast"/>
-		<outline type="rss" text="Crime and Cocktails" title="Crime and Cocktails" xmlUrl="http://crimeandcocktails.com/feed/podcast/crime-and-cocktails" htmlUrl="http://crimeandcocktails.com/"/>
-		<outline type="rss" text="Daily Mystery Pod" title="Daily Mystery Pod" xmlUrl="http://UnresolvedMysteries.podbean.com/feed/" htmlUrl="http://dailymysteriespod.podbean.com/"/>
-		<outline type="rss" text="TwistedPhilly" title="TwistedPhilly" xmlUrl="http://twistedphilly.com/feed/podcast/" htmlUrl="http://twistedphilly.com/"/>
-		<outline type="rss" text="Hollywoodland: Unsolved" title="Hollywoodland: Unsolved" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:255148939/sounds.rss" htmlUrl="http://www.hollywoodlandpod.com/"/>
-		<outline type="rss" text="Fortune Killer - Dead and Buried" title="Fortune Killer - Dead and Buried" xmlUrl="http://www.deadandburiedpodcast.com/fortune-killer?format=rss" htmlUrl="http://www.deadandburiedpodcast.com/fortune-killer/"/>
+		<outline type="rss" text="Crime and Cocktails" title="Crime and Cocktails" xmlUrl="http://crimeandcocktails.com/?feed=podcast" htmlUrl="http://crimeandcocktails.com/"/>
+		<outline type="rss" text="Missing &amp; Murdered: Who Killed Alberta Williams?" title="Missing &amp; Murdered: Who Killed Alberta Williams?" xmlUrl="http://www.cbc.ca/podcasting/includes/missing.xml" htmlUrl="http://www.cbc.ca/podcasting"/>
+		<outline type="rss" text="High Crimes" title="High Crimes" xmlUrl="https://calico-podcasts.squarespace.com/highcrimes?format=rss" htmlUrl="http://www.calicopodcasts.com/highcrimes/"/>
+		<outline type="rss" text="True Crime Asia" title="True Crime Asia" xmlUrl="http://www.asianoscarbait.com/true-crime-asia?format=rss" htmlUrl="http://www.asianoscarbait.com/true-crime-asia/"/>
+		<outline type="rss" text="Snapped - The Podcast" title="Snapped - The Podcast" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:247644481/sounds.rss" htmlUrl="http://oxygen.com/snapped"/>
+		<outline type="rss" text="Day-by-Day: The Nick Hillary Trial" title="Day-by-Day: The Nick Hillary Trial" xmlUrl="http://www.northcountrypublicradio.org/hillarytrialRSSPodcast.php" htmlUrl="http://www.northcountrypublicradio.org/"/>
+		<outline type="rss" text="OFFSHORE" title="OFFSHORE" xmlUrl="http://feeds.civilbeat.org/civilbeatoffshore" htmlUrl="http://offshorepodcast.com/"/>
+		<outline type="rss" text="True Crime Fan Club Podcast" title="True Crime Fan Club Podcast" xmlUrl="https://truecrimefanclub.com/feed/podcast/" htmlUrl="https://truecrimefanclub.com/"/>
+		<outline type="rss" text="Beyond the Blood" title="Beyond the Blood" xmlUrl="http://beyondblood.podbean.com/feed/" htmlUrl="http://beyondblood.podbean.com/"/>
+		<outline type="rss" text="Blog/ Podcast - Redrum, Redrum: Girls on Murder" title="Blog/ Podcast - Redrum, Redrum: Girls on Murder" xmlUrl="http://www.redrumredrumgirlsonmurder.com/blog-pocast/?format=rss" htmlUrl="http://www.redrumredrumgirlsonmurder.com/blog-pocast/"/>
+		<outline type="rss" text="Hollywood &amp; Crime" title="Hollywood &amp; Crime" xmlUrl="https://rss.art19.com/hollywood-and-crime" htmlUrl="https://art19.com/shows/hollywood-and-crime"/>
 		<outline type="rss" text="Crime-Ridden" title="Crime-Ridden" xmlUrl="http://www.crime-ridden.com/feed/podcast/crime-ridden" htmlUrl="http://www.crime-ridden.com/"/>
 		<outline type="rss" text="Stranglers" title="Stranglers" xmlUrl="http://rss.earwolf.com/stranglers" htmlUrl="https://art19.com/shows/stranglers"/>
-		<outline type="rss" text="Judge and Jeremy" title="Judge and Jeremy" xmlUrl="http://judgeandjeremy.libsyn.com/rss" htmlUrl="http://www.judgeandjeremy.com/"/>
-		<outline type="rss" text="Court Junkie" title="Court Junkie" xmlUrl="http://courtjunkie.libsyn.com/rss" htmlUrl="http://courtjunkie.com/"/>
-		<outline type="rss" text="In the Dark" title="In the Dark" xmlUrl="http://feeds.publicradio.org/public_feeds/in-the-dark/itunes/rss" htmlUrl="http://www.apmreports.org/in-the-dark"/>
-		<outline type="rss" text="Up and Vanished" title="Up and Vanished" xmlUrl="https://audioboom.com/channels/4811953.rss" htmlUrl="https://audioboom.com/channel/up-and-vanished"/>
+		<outline type="rss" text="truecrimereview on Huffduffer" title="truecrimereview on Huffduffer" xmlUrl="https://huffduffer.com/truecrimereview/rss" htmlUrl="https://huffduffer.com/truecrimereview"/>
+		<outline type="rss" text="TCR Shorts" title="TCR Shorts" xmlUrl="http://www.madewithopinion.com/feeds/truecrimereview/rss/" htmlUrl="http://truecrimereview.madewithopinion.com/"/>
+		<outline type="rss" text="UK True Crime" title="UK True Crime" xmlUrl="https://www.blubrry.com/feeds/uktruecrimepodcast.xml" htmlUrl="http://uktruecrime.com/"/>
+		<outline type="rss" text="Body on the Moor" title="Body on the Moor" xmlUrl="http://www.bbc.co.uk/programmes/p03wy14r/episodes/downloads.rss" htmlUrl="http://www.bbc.co.uk/programmes/p03wy14r"/>
 		<outline type="rss" text="Once Upon A Crime" title="Once Upon A Crime" xmlUrl="http://onceuponacrime.libsyn.com/rss" htmlUrl="http://onceuponacrime.libsyn.com/podcast"/>
 		<outline type="rss" text="MJP Radio" title="MJP Radio" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:110781649/sounds.rss" htmlUrl="http://www.medilljusticeproject.org/"/>
 		<outline type="rss" text="Bone Palace Ballet" title="Bone Palace Ballet" xmlUrl="http://bonepalaceballet.podbean.com/feed/" htmlUrl="http://bonepalaceballet.podbean.com/"/>
+		<outline type="rss" text="Sliwa's Streets" title="Sliwa's Streets" xmlUrl="https://audioboom.com/channels/4808642.rss" htmlUrl="https://audioboom.com/channel/SliwasStreeets"/>
 		<outline type="rss" text="Pints and Puzzles" title="Pints and Puzzles" xmlUrl="http://pintsandpuzzles.libsyn.com/rss" htmlUrl="http://pintsandpuzzles.libsyn.com/podcast"/>
+		<outline type="rss" text="Sex Crimes Podcast" title="Sex Crimes Podcast" xmlUrl="http://sexcrimespodcast.libsyn.com/rss" htmlUrl="http://www.sexcrimespodcast.com/"/>
 		<outline type="rss" text="Murder Dictionary" title="Murder Dictionary" xmlUrl="http://www.murderdictionary.com/feed/podcast/" htmlUrl="http://www.murderdictionary.com/"/>
 		<outline type="rss" text="The Week In Scary" title="The Week In Scary" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:265504115/sounds.rss" htmlUrl="http://soundcloud.com/user-224094829"/>
-		<outline type="rss" text="Criminal (In)justice" title="Criminal (In)justice" xmlUrl="http://criminalinjustice.libsyn.com/rss" htmlUrl="http://criminalinjusticepodcast.com/"/>
-		<outline type="rss" text="In Sight" title="In Sight" xmlUrl="http://insightpod.libsyn.com/rss" htmlUrl="https://audioboom.com/channel/in-sight"/>
-		<outline type="rss" text="Murder On The Space Coast" title="Murder On The Space Coast" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:241577479/sounds.rss" htmlUrl="http://soundcloud.com/user-147270269"/>
-		<outline type="rss" text="Wrongful Conviction with Jason Flom" title="Wrongful Conviction with Jason Flom" xmlUrl="http://feeds.castfire.com/itunes:2qkaz/ALL/revolver-podcasts/wrongful-conviction-with-jason-flom/s:it_PlfSq/" htmlUrl="http://www.revolverpodcasts.com/wrongful-conviction-with-jason-flom"/>
-		<outline type="rss" text="Bay Area Mystery Club" title="Bay Area Mystery Club" xmlUrl="http://bayareamysteryclub.libsyn.com/rss" htmlUrl="http://bayareamysteryclub.libsyn.com/podcast"/>
+		<outline type="rss" text="Reveal" title="Reveal" xmlUrl="http://feeds.revealradio.org/revealpodcast" htmlUrl="http://www.revealnews.org/"/>
+		<outline type="rss" text="Punt PI" title="Punt PI" xmlUrl="http://www.bbc.co.uk/programmes/b00krfns/episodes/downloads.rss" htmlUrl="http://www.bbc.co.uk/programmes/b00krfns"/>
+		<outline type="rss" text="Serial" title="Serial" xmlUrl="http://feeds.serialpodcast.org/serialpodcast" htmlUrl="https://serialpodcast.org/"/>
+		<outline type="rss" text="Liar City" title="Liar City" xmlUrl="http://liarcity.libsyn.com/rss" htmlUrl="http://www.liarcity.com/"/>
+		<outline type="rss" text="Gangland Wire" title="Gangland Wire" xmlUrl="http://ganglandwire.com/feed/podcast/" htmlUrl="http://ganglandwire.com/"/>
+		<outline type="rss" text="The Lineup Podcast" title="The Lineup Podcast" xmlUrl="http://www.the-line-up.com/feed/podcast/" htmlUrl="http://www.the-line-up.com/"/>
+		<outline type="rss" text="Brutal Ends" title="Brutal Ends" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:190761422/sounds.rss" htmlUrl="http://www.brutalends.com/"/>
+		<outline type="rss" text="True Crime Historian" title="True Crime Historian" xmlUrl="https://audioboom.com/channels/4639802.rss" htmlUrl="https://audioboom.com/channel/true-crime-historian"/>
+		<outline type="rss" text="My Favorite Murder with Karen Kilgariff and Georgia Hardstark" title="My Favorite Murder with Karen Kilgariff and Georgia Hardstark" xmlUrl="http://rss.art19.com/my-favorite-murder-with-karen-kilgariff-and-georgia-hardstark" htmlUrl="http://www.feralaudio.com/show/my-favorite-murder/"/>
+		<outline type="rss" text="Casefile True Crime" title="Casefile True Crime" xmlUrl="http://casefile.libsyn.com/rss" htmlUrl="http://www.casefilepodcast.com/"/>
 		<outline type="rss" text="The Alibi" title="The Alibi" xmlUrl="https://www.whooshkaa.com/rss/podcast/id/1185" htmlUrl="https://www.whooshkaa.com/shows/the-alibi"/>
 		<outline type="rss" text="Military Justice" title="Military Justice" xmlUrl="https://audioboom.com/channels/4826442.rss" htmlUrl="https://audioboom.com/channel/military-justice"/>
-		<outline type="rss" text="Mysteries Abound" title="Mysteries Abound" xmlUrl="http://recordings.talkshoe.com/rss21864.xml" htmlUrl="http://www.talkshoe.com/talkshoe/web/tscmd/tc/21864"/>
-		<outline type="rss" text="The Generation Why Podcast" title="The Generation Why Podcast" xmlUrl="http://thegenerationwhypodcast.com/feed/category/podcast" htmlUrl="http://thegenerationwhypodcast.com/"/>
-		<outline type="rss" text="The Night Time Podcast" title="The Night Time Podcast" xmlUrl="https://audioboom.com/channels/4748686.rss" htmlUrl="https://audioboom.com/channel/the-night-time-podcast"/>
-		<outline type="rss" text="Unexplained" title="Unexplained" xmlUrl="http://rss.acast.com/unexplained" htmlUrl="http://www.unexplainedpodcast.com/"/>
-		<outline type="rss" text="Cancrime" title="Cancrime" xmlUrl="http://www.cancrime.com/feed/podcast/" htmlUrl="http://www.cancrime.com/"/>
-		<outline type="rss" text="Monograph" title="Monograph" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:186639626/sounds.rss" htmlUrl="http://taaron.xyz/"/>
-		<outline type="rss" text="Thinking Sideways Podcast" title="Thinking Sideways Podcast" xmlUrl="http://thinkingsidewayspodcast.libsyn.com/rss" htmlUrl="http://thinkingsidewayspodcast.com/"/>
-		<outline type="rss" text="Actual Innocence" title="Actual Innocence" xmlUrl="https://audioboom.com/channels/4728027.rss" htmlUrl="https://audioboom.com/channel/actualinnocence"/>
 		<outline type="rss" text="House of Mystery" title="House of Mystery" xmlUrl="http://houseofmysteryradio.podomatic.com/rss2.xml" htmlUrl="http://houseofmysteryradio.podomatic.com/"/>
 		<outline type="rss" text="Accused" title="Accused" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:234220545/sounds.rss" htmlUrl="http://cincinnati.com/"/>
 		<outline type="rss" text="UnFound" title="UnFound" xmlUrl="http://unfoundpodcast.podomatic.com/rss2.xml" htmlUrl="http://unfoundpodcast.podomatic.com/"/>
-		<outline type="rss" text="They Walk Among Us - UK True Crime" title="They Walk Among Us - UK True Crime" xmlUrl="http://theywalkamongus.libsyn.com/rss" htmlUrl="http://theywalkamonguspodcast.com/"/>
+		<outline type="rss" text="They Walk Among Us - UK True Crime" title="They Walk Among Us - UK True Crime" xmlUrl="https://audioboom.com/channels/4878185.rss" htmlUrl="https://audioboom.com/channel/theywalkamongus"/>
 		<outline type="rss" text="True Crime and Mysteries" title="True Crime and Mysteries" xmlUrl="http://truecrimeandmysteries.podbean.com/feed/" htmlUrl="http://truecrimeandmysteries.podbean.com/"/>
+		<outline type="rss" text="Wanted by the FBI podcast" title="Wanted by the FBI podcast" xmlUrl="https://www.fbi.gov/news/podcasts/wanted/archive/itunes.xml" htmlUrl="https://www.fbi.gov/feeds/wanted-by-the-fbi-podcast"/>
+		<outline type="rss" text="Nocturne" title="Nocturne" xmlUrl="http://www.nocturnepodcast.org/feed/podcast/" htmlUrl="http://www.nocturnepodcast.org/"/>
+		<outline type="rss" text="Truth &amp; Justice with Bob Ruff" title="Truth &amp; Justice with Bob Ruff" xmlUrl="https://audioboom.com/channels/4384694.rss" htmlUrl="https://audioboom.com/channel/the-serial-dynasty"/>
+		<outline type="rss" text="What Happened To Vishal?" title="What Happened To Vishal?" xmlUrl="http://lbc.audioagain.com/podcast.php?channel=vishal" htmlUrl="http://www.lbc.co.uk/vishal"/>
+		<outline type="rss" text="It Came From the Woods Podcast" title="It Came From the Woods Podcast" xmlUrl="http://feeds.feedburner.com/itcamefromthewoodspodcast" htmlUrl="http://www.itcamefromthewoods.com/"/>
+		<outline type="rss" text="FBI Retired Case File Review with Jerri Williams" title="FBI Retired Case File Review with Jerri Williams" xmlUrl="http://jerriwilliams.com/feed/podcast/" htmlUrl="http://jerriwilliams.com/"/>
+		<outline type="rss" text="Mysterious Circumstances" title="Mysterious Circumstances" xmlUrl="http://www.buzzsprout.com/60143.rss" htmlUrl="http://mysteriouscircumstances.buzzsprout.com/"/>
+		<outline type="rss" text="Crime Time" title="Crime Time" xmlUrl="http://www.blogtalkradio.com/crimetimeradio/podcast" htmlUrl="http://www.blogtalkradio.com/crimetimeradio"/>
+		<outline type="rss" text="Mean Old World" title="Mean Old World" xmlUrl="http://www.meanoldworld.com/meanoldworldeps?format=RSS" htmlUrl="http://www.meanoldworld.com/meanoldworldeps/"/>
+		<outline type="rss" text="Criminal (In)justice" title="Criminal (In)justice" xmlUrl="http://criminalinjustice.libsyn.com/rss" htmlUrl="http://criminalinjusticepodcast.com/"/>
+		<outline type="rss" text="In Sight" title="In Sight" xmlUrl="http://insightpod.libsyn.com/rss" htmlUrl="https://audioboom.com/channel/in-sight"/>
+		<outline type="rss" text="Detective" title="Detective" xmlUrl="http://feeds.feedburner.com/Detective" htmlUrl="http://www.investigationdiscovery.com/"/>
+		<outline type="rss" text="Murder On The Space Coast" title="Murder On The Space Coast" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:241577479/sounds.rss" htmlUrl="http://soundcloud.com/user-147270269"/>
+		<outline type="rss" text="Wrongful Conviction with Jason Flom" title="Wrongful Conviction with Jason Flom" xmlUrl="http://feeds.castfire.com/itunes:2qkaz/ALL/revolver-podcasts/wrongful-conviction-with-jason-flom/s:it_PlfSq/" htmlUrl="http://www.revolverpodcasts.com/wrongful-conviction-with-jason-flom"/>
+		<outline type="rss" text="Crimetown" title="Crimetown" xmlUrl="http://feeds.gimletmedia.com/crimetownshow" htmlUrl="https://www.gimletmedia.com/show/crimetown"/>
+		<outline type="rss" text="Bay Area Mystery Club" title="Bay Area Mystery Club" xmlUrl="http://bayareamysteryclub.libsyn.com/rss" htmlUrl="http://bayareamysteryclub.libsyn.com/podcast"/>
+		<outline type="rss" text="True Crime All The Time" title="True Crime All The Time" xmlUrl="http://truecrimeallthetime.libsyn.com/rss" htmlUrl="http://truecrimeallthetime.com/"/>
+		<outline type="rss" text="misconduct. podcast" title="misconduct. podcast" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:260256265/sounds.rss" htmlUrl="http://www.misconductpodcast.com/"/>
+		<outline type="rss" text="Project Random" title="Project Random" xmlUrl="https://audioboom.com/channels/4810247.rss" htmlUrl="https://audioboom.com/channel/project-random"/>
+		<outline type="rss" text="Talking Crime" title="Talking Crime" xmlUrl="http://www.spreaker.com/user/9260385/episodes/feed" htmlUrl="https://www.spreaker.com/user/talkingcrime"/>
+		<outline type="rss" text="TCR Shorts" title="TCR Shorts" xmlUrl="http://truecrimereview.madewithopinion.com/feeds/truecrimereview/rss/" htmlUrl="http://truecrimereview.madewithopinion.com/"/>
 	</body>
 </opml>
