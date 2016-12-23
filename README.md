@@ -1,5 +1,8 @@
 # The Big List of True Crime Podcasts
 
+Current count: 169 unique shows
+Last edit: December 23, 2016
+
 ## [Download as OPML (right click and Save As)](https://raw.githubusercontent.com/truecrimereview/truecrimepodcasts/master/true_crime_podcasts.opml)
 
 ### [ Brought to you by [True Crime Review](http://truecrimereview.net/subscribe) ]
