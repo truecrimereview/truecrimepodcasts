@@ -27,7 +27,7 @@ bookmarklet](http://trevorjim.com/projects/make.text/) gets me from the HTML to 
 
 ### Note
 
-The List is presented in no particular order. It is **not** a ranking. The numbers are only there so we can easily see what the total count is by look at the number next to the final podcast.
+The List is presented in no particular order. It is **not** a ranking. The numbers are only there so we can easily see what the total count is by look at the number next to the final podcast. If you prefer alphabetical order, there's an alphabetized plaintext version of the list [here](https://raw.githubusercontent.com/truecrimereview/truecrimepodcasts/master/alphabetized.txt).
 
 ---
 
