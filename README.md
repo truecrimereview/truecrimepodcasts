@@ -56,7 +56,7 @@ The List is presented in no particular order. It is **not** a ranking. The numbe
 1.   \[[RSS][45]\] [Forensic Geek Radio][46]
 1.   \[[RSS][47]\] [Nocturne][48]
 1.   \[[RSS][49]\] [Truth & Justice with Bob Ruff][50]
-1.   \[[RSS][51]\] [What Happened To Vishal?][52]
+1.   \[[RSS][51]\] [What Happened To Vishal?][52] 
 1.   \[[RSS][53]\] [Listen With The Lights On][54]
 1.   \[[RSS][55]\] [The Apex & The Abyss][56]
 1.   \[[RSS][57]\] [Morbid Curiosity Podcast][58]
