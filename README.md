@@ -17,10 +17,9 @@
 
 Thanks to:
 
-- [Stoyan Stefanov](http://www.phpied.com/bio/), whose [OPML2HTML converter](http://www.phpied.com/files/opml2html/opml2html.html) I use to, well,
-turn my OPML into HTML;
-- [Trevor Tim](http://trevorjim.com/), whose [Make.text 
-bookmarklet](http://trevorjim.com/projects/make.text/) gets me from the HTML to the Markdown;
+- CJ Malone, whose [fork of opml2html](https://github.com/Cj-Malone/opml2html) I use for much of the OPML manipulation;
+- [Stoyan Stefanov](http://www.phpied.com/bio/), whose [OPML2HTML converter](http://www.phpied.com/files/opml2html/opml2html.html) Malone forked;
+- [Trevor Tim](http://trevorjim.com/), whose [Make.text bookmarklet](http://trevorjim.com/projects/make.text/) gets me from the HTML to the Markdown;
 - [CodeBeautify.org](http://codebeautify.org/opmlviewer), whose tool made the OPML human readable;
 
 ---
