@@ -2,7 +2,7 @@
 
 ---
 
-- **Current count:** **200** unique shows
+- **Current count:** More than **500** unique shows
 - **Last edit:** February 8, 2016
 
 ---
@@ -30,7 +30,6 @@ The List is presented in no particular order. It is **not** a ranking. The numbe
 
 ---
 
-1. [[RSS](http://atp.fm/episodes?format=rss)] [Accidental Tech Podcast](http://atp.fm/)
 1. [[RSS](https://rss.art19.com/crime-writers-on)] [Crime Writers On...](https://art19.com/shows/crime-writers-on)
 1. [[RSS](https://feeds.megaphone.fm/IND4792126421)] [What The Crime?!](http://www.crimefeed.com/)
 1. [[RSS](http://bicbp-radio.com/history-creeps-podcast?format=rss)] [History Creeps Podcast](http://bicbp-radio.com/history-creeps-podcast/)
