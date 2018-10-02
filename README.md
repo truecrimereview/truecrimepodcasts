@@ -30,603 +30,534 @@ The List is presented in no particular order. It is **not** a ranking. The numbe
 
 ---
 
-1.   \[[RSS][1]\] [All Killa No Filla][2]
-1.   \[[RSS][3]\] [Junction][4]
-1.   \[[RSS][5]\] [The Unresolved Podcast][6]
-1.   \[[RSS][7]\] [True Crime Brewery][8]
-1.   \[[RSS][9]\] [The Nowhere Dispatch][10]
-1.   \[[RSS][11]\] [America's Missing Podcast][12]
-1.   \[[RSS][13]\] [American CrimeCast][14]
-1.   \[[RSS][15]\] [Body on the Moor][16]
-1.   \[[RSS][17]\] [Once Upon A Crime][18]
-1.   \[[RSS][19]\] [MJP Radio][20]
-1.   \[[RSS][21]\] [Bone Palace Ballet][22]
-1.   \[[RSS][23]\] [Sliwa's Streets][24]
-1.   \[[RSS][25]\] [Pints and Puzzles][26]
-1.   \[[RSS][27]\] [Sex Crimes Podcast][28]
-1.   \[[RSS][29]\] [Murder Dictionary][30]
-1.   \[[RSS][31]\] [The Week In Scary][32]
-1.   \[[RSS][33]\] [Canadian True Crime Podcast][34]
-1.   \[[RSS][35]\] [The Dollop with Dave Anthony and Gareth Reynolds][36]
-1.   \[[RSS][37]\] [Wanted by the FBI podcast][38]
-1.   \[[RSS][39]\] [Crime and Justice with Dan Schorr][40]
-1.   \[[RSS][41]\] [Crime Time -- MP3][42]
-1.   \[[RSS][43]\] [Tricia Griffith Show][44]
-1.   \[[RSS][45]\] [Forensic Geek Radio][46]
-1.   \[[RSS][47]\] [Nocturne][48]
-1.   \[[RSS][49]\] [Truth & Justice with Bob Ruff][50]
-1.   \[[RSS][51]\] [What Happened To Vishal?][52] 
-1.   \[[RSS][53]\] [Listen With The Lights On][54]
-1.   \[[RSS][55]\] [The Apex & The Abyss][56]
-1.   \[[RSS][57]\] [Morbid Curiosity Podcast][58]
-1.   \[[RSS][59]\] [The Conspirators Podcast][60]
-1.   \[[RSS][61]\] [It Came From the Woods Podcast][62]
-1.   \[[RSS][63]\] [FBI Retired Case File Review with Jerri Williams][64]
-1.   \[[RSS][65]\] [Within the Trenches][66]
-1.   \[[RSS][67]\] [Mysterious Circumstances][68]
-1.   \[[RSS][69]\] [IRE Radio Podcast][70]
-1.   \[[RSS][71]\] [Crime Time][72]
-1.   \[[RSS][73]\] [SpyCast][74]
-1.   \[[RSS][75]\] [Last Podcast On The Left][76]
-1.   \[[RSS][77]\] [Sword and Scale][78]
-1.   \[[RSS][79]\] [48 Hours][80]
-1.   \[[RSS][81]\] [Lore][82]
-1.   \[[RSS][83]\] [Mean Old World][84]
-1.   \[[RSS][85]\] [Rippercast- Your Podcast on the Jack the Ripper murders][86]
-1.   \[[RSS][87]\] [GIMG.tv - A podcast devoted to Private Investigators][88]
-1.   \[[RSS][89]\] [Coroner Talk(tm) | Death Investigation Training | Police and Law Enforcement][90]
-1.   \[[RSS][91]\] [Crime Writers On...][92]
-1.   \[[RSS][93]\] [White Wine True Crime!][94]
-1.   \[[RSS][95]\] [Who Killed Elsie Frost?][96]
-1.   \[[RSS][97]\] [What The Crime?!][98]
-1.   \[[RSS][99]\] [20/20][100]
-1.   \[[RSS][101]\] [Unprisoned: Stories From The System][102]
-1.   \[[RSS][103]\] [Breakdown][104]
-1.   \[[RSS][105]\] [Disaster Area][106]
-1.   \[[RSS][107]\] [Gary C. King's True Crime Podcast][108]
-1.   \[[RSS][109]\] [True Murder: The Most Shocking Killers in True Crime History and the Authors That Have Written About Them][110]
-1.   \[[RSS][111]\] [KCRW's Here Be Monsters][112]
-1.   \[[RSS][113]\] [Criminal][114]
-1.   \[[RSS][115]\] [Real Crime Profile][116]
-1.   \[[RSS][117]\] [Facing Evil with Candice DeLong][118]
-1.   \[[RSS][119]\] [This Is Actually Happening][120]
-1.   \[[RSS][121]\] [Detective][118]
-1.   \[[RSS][122]\] [Astonishing Legends][123]
-1.   \[[RSS][124]\] [Noir Factory Podcast][125]
-1.   \[[RSS][126]\] [True Crime Garage][127]
-1.   \[[RSS][128]\] [History Dweebs][129]
-1.   \[[RSS][130]\] [The Trail Went Cold][131]
-1.   \[[RSS][132]\] [Untold: The Daniel Morgan Murder][133]
-1.   \[[RSS][134]\] [Twisted Podcast][135]
-1.   \[[RSS][136]\] [True Crime Review][137]
-1.   \[[RSS][138]\] [Finding Tammy Jo][139]
-1.   \[[RSS][140]\] [Already Gone Podcast][141]
-1.   \[[RSS][142]\] [The Murdertown Chronicles][143]
-1.   \[[RSS][144]\] [Crime Historian][145]
-1.   \[[RSS][146]\] [The Principled Uncertainty Podcast][147]
-1.   \[[RSS][148]\] [Thin Air Podcast][149]
-1.   \[[RSS][150]\] [Someone Knows Something][151]
-1.   \[[RSS][152]\] [Lohud Crime Scene][153]
-1.   \[[RSS][154]\] [Curiosity Kills][155]
-1.   \[[RSS][156]\] [Undisclosed][157]
-1.   \[[RSS][158]\] [All Things Awful with Adam & Alex][159]
-1.   \[[RSS][160]\] [Unsolved Podcast][161]
-1.   \[[RSS][162]\] [Africa Investigates][163]
-1.   \[[RSS][164]\] [First and Felony -- A True Crime Podcast][165]
-1.   \[[RSS][166]\] [Felon True Crime Podcast][167]
-1.   \[[RSS][168]\] [Mysteries Abound][169]
-1.   \[[RSS][170]\] [The Generation Why Podcast][171]
-1.   \[[RSS][172]\] [The Night Time Podcast][173]
-1.   \[[RSS][174]\] [Unexplained][175]
-1.   \[[RSS][176]\] [Deathcast][177]
-1.   \[[RSS][178]\] [Daily Mystery Pod][179]
-1.   \[[RSS][180]\] [TwistedPhilly][181]
-1.   \[[RSS][182]\] [Hollywoodland: Unsolved][183]
-1.   \[[RSS][184]\] [Fortune Killer - Dead and Buried][185]
-1.   \[[RSS][186]\] [Dead and Buried Podcast - Dead and Buried][187]
-1.   \[[RSS][188]\] [Crime & Trauma Report][189]
-1.   \[[RSS][190]\] [Project Random][191]
-1.   \[[RSS][192]\] [Talking Crime][193]
-1.   \[[RSS][194]\] [TCR Shorts][195]
-1.   \[[RSS][196]\] [True Crime Island][197]
-1.   \[[RSS][198]\] [Dark History Podcast][199]
-1.   \[[RSS][200]\] [Crime Stories with Nancy Grace][201]
-1.   \[[RSS][202]\] [The Search Podcast][203]
-1.   \[[RSS][204]\] [Crime + Investigation Podcast][205]
-1.   \[[RSS][206]\] [This Week in True Crime History][207]
-1.   \[[RSS][208]\] [True Crime Japan Podcast][209]
-1.   \[[RSS][210]\] [SinisterStream Podcast][211]
-1.   \[[RSS][212]\] [Murderers and Their Mothers: The Debrief][213]
-1.   \[[RSS][214]\] [Mysterious Disappearances][215]
-1.   \[[RSS][216]\] [Killers, Cults, and Nutjobs][217]
-1.   \[[RSS][218]\] [Uncovering Unexplained Mysteries][219]
-1.   \[[RSS][220]\] [The Serial Killer Podcast][221]
-1.   \[[RSS][222]\] [juvie][223]
-1.   \[[RSS][224]\] [Still At Large Podcast][225]
-1.   \[[RSS][226]\] [Crime and Cocktails][227]
-1.   \[[RSS][228]\] [Missing & Murdered: Who Killed Alberta Williams?][151]
-1.   \[[RSS][229]\] [High Crimes][230]
-1.   \[[RSS][231]\] [CrimeQuest][232]
-1.   \[[RSS][233]\] [True Crime Asia][234]
-1.   \[[RSS][235]\] [MysteriYES - Edward Evans][236]
-1.   \[[RSS][237]\] [Two Girls True Crime][238]
-1.   \[[RSS][239]\] [True Crime Guys][240]
-1.   \[[RSS][241]\] [History Creeps Podcast - BICBP - RADIO NETWORK][242]
-1.   \[[RSS][243]\] [Remarkable Lives. Tragic Deaths.][244]
-1.   \[[RSS][245]\] [Snapped - The Podcast][246]
-1.   \[[RSS][247]\] [Day-by-Day: The Nick Hillary Trial][248]
-1.   \[[RSS][249]\] [OFFSHORE][250]
-1.   \[[RSS][251]\] [True Crime Fan Club Podcast][252]
-1.   \[[RSS][253]\] [Beyond the Blood][254]
-1.   \[[RSS][255]\] [Crawlspace][256]
-1.   \[[RSS][257]\] [True Crime All The Time Unsolved][258]
-1.   \[[RSS][259]\] [Podcast - Redrum, Redrum: Girls on Murder][260]
-1.   \[[RSS][261]\] [Hollywood & Crime][262]
-1.   \[[RSS][263]\] [The armchair detective podcast][264]
-1.   \[[RSS][265]\] [Phoebe's Fall][266]
-1.   \[[RSS][267]\] [Crime-Ridden][268]
-1.   \[[RSS][269]\] [Stranglers][270]
-1.   \[[RSS][271]\] [truecrimereview on Huffduffer][272]
-1.   \[[RSS][273]\] [UK True Crime][274]
-1.   \[[RSS][275]\] [Closing Arguments][276]
-1.   \[[RSS][277]\] [Reveal][278]
-1.   \[[RSS][279]\] [Punt PI][280]
-1.   \[[RSS][281]\] [Serial][282]
-1.   \[[RSS][283]\] [Reply All][284]
-1.   \[[RSS][285]\] [Liar City][286]
-1.   \[[RSS][287]\] [Gangland Wire][288]
-1.   \[[RSS][289]\] [The Lineup Podcast][290]
-1.   \[[RSS][291]\] [Brutal Ends][292]
-1.   \[[RSS][293]\] [True Crime Historian][294]
-1.   \[[RSS][295]\] [My Favorite Murder with Karen Kilgariff and Georgia Hardstark][296]
-1.   \[[RSS][297]\] [People v. Masters: Making a Murderer][298]
-1.   \[[RSS][299]\] [Criminal (In)justice][300]
-1.   \[[RSS][301]\] [Blunt History][302]
-1.   \[[RSS][303]\] [In Sight][304]
-1.   \[[RSS][305]\] [Detective][118]
-1.   \[[RSS][306]\] [Murder On The Space Coast][307]
-1.   \[[RSS][308]\] [Wrongful Conviction with Jason Flom][309]
-1.   \[[RSS][310]\] [Crime Roulette][311]
-1.   \[[RSS][312]\] [Crimetown][313]
-1.   \[[RSS][314]\] [Bay Area Mystery Club][315]
-1.   \[[RSS][316]\] [True Crime All The Time][317]
-1.   \[[RSS][318]\] [misconduct. a true crime podcast][319]
-1.   \[[RSS][320]\] [EXPLOITED: Crimes Against Humanity][321]
-1.   \[[RSS][322]\] [Casefile True Crime][323]
-1.   \[[RSS][324]\] [The Alibi][325]
-1.   \[[RSS][326]\] [Military Justice][327]
-1.   \[[RSS][328]\] [Keep Tucson Spooky][329]
-1.   \[[RSS][330]\] [Suspect Convictions][331]
-1.   \[[RSS][332]\] [The Minds Of Madness][333]
-1.   \[[RSS][334]\] [Cancrime][335]
-1.   \[[RSS][336]\] [Monograph][337]
-1.   \[[RSS][338]\] [Thinking Sideways Podcast][339]
-1.   \[[RSS][340]\] [Actual Innocence][341]
-1.   \[[RSS][342]\] [Gone Podcast][343]
-1.   \[[RSS][344]\] [House of Mystery][345]
-1.   \[[RSS][346]\] [Accused][347]
-1.   \[[RSS][348]\] [UnFound--A Missing Persons Program][349]
-1.   \[[RSS][350]\] [They Walk Among Us - UK True Crime][351]
-1.   \[[RSS][352]\] [True Crime and Mysteries][353]
-1.   \[[RSS][354]\] [Crime&Stuff][355]
-1.   \[[RSS][356]\] [The Witching Hour: Stories of the Macabre & Unusual][357]
-1.   \[[RSS][358]\] [The New York City Crime Report with Pat Dixon][359]
-1.   \[[RSS][360]\] [Crime and Mystery][361]
-1.   \[[RSS][362]\] [Missing Maura Murray][363]
-1.   \[[RSS][364]\] [Most Notorious! A True Crime History Podcast][365]
-1.   \[[RSS][366]\] [Unsolved][367]
-1.   \[[RSS][368]\] [The Vanished Podcast][369]
-1.   \[[RSS][370]\] [Crime In Sports][371]
-1.   \[[RSS][372]\] [Bowraville][373]
-1.   \[[RSS][374]\] [Unsolved Murders: True Crime Stories][244]
-1.   \[[RSS][375]\] [Judge and Jeremy][376]
-1.   \[[RSS][377]\] [Court Junkie][378]
-1.   \[[RSS][379]\] [In the Dark][380]
-1.   \[[RSS][381]\] [Up and Vanished][382]
-1.   \[[RSS][383]\] [S'laughter: True Crime Podcast][384]
-1.   \[[RSS][385]\] [Crime & Precedents][386]
-1.   \[[RSS][387]\] [In the Dark][380]
-1.   \[[RSS][388]\] [Gone At 21][389]
-1.   \[[RSS][390]\] [Small Town Murder][391]
-1.   \[[RSS][392]\] [PI's Declassified!][393]
-1.   \[[RSS][394]\] [Unraveled][395]
+1. [[RSS](http://atp.fm/episodes?format=rss)] [Accidental Tech Podcast](http://atp.fm/)
+1. [[RSS](https://rss.art19.com/crime-writers-on)] [Crime Writers On...](https://art19.com/shows/crime-writers-on)
+1. [[RSS](https://feeds.megaphone.fm/IND4792126421)] [What The Crime?!](http://www.crimefeed.com/)
+1. [[RSS](http://bicbp-radio.com/history-creeps-podcast?format=rss)] [History Creeps Podcast](http://bicbp-radio.com/history-creeps-podcast/)
+1. [[RSS](https://www.northcountrypublicradio.org/hillarytrialRSSPodcast.php)] [Day-by-Day: The Nick Hillary Trial](https://www.northcountrypublicradio.org/)
+1. [[RSS](http://feeds.civilbeat.org/civilbeatoffshore)] [OFFSHORE](http://www.offshorepodcast.org/)
+1. [[RSS](https://truecrimefanclub.com/feed/podcast/)] [True Crime Fan Club Podcast](https://truecrimefanclub.com/)
+1. [[RSS](https://audioboom.com/channels/4843708.rss)] [Crawlspace: True Crime & Mysteries](https://audioboom.com/channel/crawlspace)
+1. [[RSS](http://1995podcast.libsyn.com/rss)] [The History of 1995](http://1995podcast.libsyn.com/podcast)
+1. [[RSS](http://www.deanwehrli.com/weird-world-podcast/?format=rss)] [Weird World Podcast](http://www.deanwehrli.com/)
+1. [[RSS](http://searchingforghosts.libsyn.com/rss)] [Searching For Ghosts: Where Is Bethany Markowski?](http://searchingforghosts.libsyn.com/website)
+1. [[RSS](https://feeds.megaphone.fm/ADL1524114305)] [Trace Evidence](https://murder.ly/trace-evidence/)
+1. [[RSS](http://thedollop.libsyn.com/rss)] [The Dollop with Dave Anthony and Gareth Reynolds](https://www.facebook.com/thedollop)
+1. [[RSS](https://audioboom.com/channels/4634320.rss)] [SpyCast](https://audioboom.com/channel/spycast)
+1. [[RSS](http://feeds.feedburner.com/ire-nicar)] [IRE Radio Podcast](http://www.ire.org/)
+1. [[RSS](http://www.casebook.org/podcast/rss.xml)] [Rippercast- Your Podcast on the Jack the Ripper murders](http://www.casebook.org/podcast)
+1. [[RSS](https://deathpenaltyinfo.org/podcast/podcasts.xml)] [Death Penalty Information Center On the Issues Podcast Series](http://www.deathpenaltyinfo.org/podcasts)
+1. [[RSS](http://knockknockpodcast.libsyn.com/rss)] [Knock Knock](http://knockknockpodcast.libsyn.com/website)
+1. [[RSS](https://rss.art19.com/locked-up-abroad)] [Locked Up Abroad](http://wondery.com/wondery/shows/lockedup/)
+1. [[RSS](http://feeds.soundcloud.com/users/soundcloud:users:20434609/sounds.rss)] [Extraordinary Stories Podcast](http://soundcloud.com/barryjph)
+1. [[RSS](http://killerqueens.libsyn.com/rss)] [Killer Queens | True Crime](http://killerqueens.libsyn.com/website)
+1. [[RSS](http://feeds.soundcloud.com/users/soundcloud:users:337336390/sounds.rss)] [Project Cold Case](http://www.actionnewsjax.com/projectcoldcase)
+1. [[RSS](https://feeds.megaphone.fm/ADL8438301969)] [The Nature vs Narcissism's Podcast](https://murder.ly/nature-vs-narcissism/)
+1. [[RSS](https://audioboom.com/channels/4749136.rss)] [Most Notorious! A True Crime History Podcast](https://audioboom.com/channel/most-notorious)
+1. [[RSS](http://lorepodcast.libsyn.com/rss)] [Lore](http://www.lorepodcast.com/)
+1. [[RSS](http://unsolvedpodcast.libsyn.com/rss)] [Unsolved Podcast](http://www.unsolvedpodcast.com/)
+1. [[RSS](http://feeds.feedburner.com/Gimgnetwork)] [GIMG.tv - A podcast devoted to Private Investigators](http://gimg.tv/)
+1. [[RSS](http://coronertalk.libsyn.com/rss)] [Coroner Talk™ | Death Investigation Training | Police and Law Enforcement](https://coronertalk.com/)
+1. [[RSS](http://thisweekintruecrime.libsyn.com/rss)] [This Week in True Crime History](http://www.facebook.com/groups/thisweekintruecrime)
+1. [[RSS](https://feeds.buzzsprout.com/139016.rss)] [Girl Detective](http://girldetective.buzzsprout.com/)
+1. [[RSS](http://feeds.soundcloud.com/users/soundcloud:users:363144644/sounds.rss)] [I Got the Hell Out!](http://soundcloud.com/i-got-the-hell-out)
+1. [[RSS](http://feeds.soundcloud.com/users/soundcloud:users:360139415/sounds.rss)] [yourcrimeormine](http://soundcloud.com/yourcrimeormine)
+1. [[RSS](http://feeds.soundcloud.com/users/soundcloud:users:170854537/sounds.rss)] [MISSING](http://www.missingpodcast.com/)
+1. [[RSS](https://www.omnycontent.com/d/playlist/917c66b2-6626-44f4-b5e8-a4a4004532d8/1505c90d-4a2b-457f-b0d0-a8720043f7b2/bd7a737b-4264-4caf-8824-a8720046ff93/podcast.rss)] [New Idea Investigates Podcast](https://www.newidea.com.au/)
+1. [[RSS](https://strictlyhomicide.podbean.com/feed.xml)] [Strictly Homicide Podcast](https://strictlyhomicide.podbean.com/)
+1. [[RSS](http://www.spreaker.com/show/2909311/episodes/feed)] [True Crime Historian](http://www.spreaker.com/show/true-crime-historian_3)
+1. [[RSS](https://podcasts.opb.org/rss/bundyville)] [Bundyville](https://www.spreaker.com/show/bundyville)
+1. [[RSS](https://feeds.megaphone.fm/IND1636975765)] [Detective](http://www.investigationdiscovery.com/)
+1. [[RSS](https://newbooksnetwork.com/category/politics-society/terrorism/feed/)] [New Books in Terrorism and Organized Crime](https://newbooksnetwork.com/)
+1. [[RSS](http://feeds.feedburner.com/herebemonsterspodcast/)] [Here Be Monsters](https://www.kcrw.com/news-culture/shows/here-be-monsters)
+1. [[RSS](http://principleduncertainty.libsyn.com/rss)] [Principled Uncertainty: A True Crime Podcast](http://principleduncertainty.libsyn.com/)
+1. [[RSS](http://jpollackauthor.podomatic.com/rss2.xml)] [DEVIL'S TEETH](https://www.podomatic.com/podcasts/jpollackauthor)
+1. [[RSS](https://rss.art19.com/i-survivor)] [I, Survivor](https://art19.com/shows/i-survivor)
+1. [[RSS](http://feeds.gimletmedia.com/hearreplyall)] [Reply All](http://gimletmedia.com/shows/reply-all)
+1. [[RSS](http://feeds.feedburner.com/garyckingstruecrimepodcast)] [Gary C. King's True Crime Podcast](http://www.truecrimeking.com/)
+1. [[RSS](https://www.voiceamerica.com/rss/itunes/1748)] [PI’s Declassified!](https://www.voiceamerica.com/show/1748/pis-declassified)
+1. [[RSS](https://rss.art19.com/this-is-actually-happening-podcast)] [This Is Actually Happening](https://art19.com/shows/this-is-actually-happening-podcast)
+1. [[RSS](https://allkillanofilla.libsyn.com/rss)] [All Killa No Filla](http://allkillanofilla.podomatic.com/)
+1. [[RSS](http://withinthetrenches.libsyn.com/rss)] [Within the Trenches](https://www.withinthetrenches.net/)
+1. [[RSS](https://audioboom.com/channels/4322549.rss)] [Astonishing Legends](https://audioboom.com/channel/astonishing-legends)
+1. [[RSS](https://feeds.megaphone.fm/DGT3646982943)] [48 Hours](http://radio.com/audio)
+1. [[RSS](https://rss.acast.com/historydweebs)] [History Dweebs - A look at True Crime, Murders, Serial Killers and the Darkside of History](http://www.acast.com/historydweebs)
+1. [[RSS](https://abcnews.go.com/xmldata/xmlpodcast?id=30146791)] [20/20](http://abcradio.com/podcasts/20-20/)
+1. [[RSS](https://rob-raffety-1qom.squarespace.com/podcast/?format=rss)] [Podcast - Muck](http://www.welcometothemuck.com/podcast/)
+1. [[RSS](http://feeds.soundcloud.com/users/soundcloud:users:179182212/sounds.rss)] [The Unresolved Podcast](http://theunresolvedpodcast.com/)
+1. [[RSS](http://americasmissingpodcast.libsyn.com/rss)] [America's Missing Podcast](http://americasmissingpodcast.libsyn.com/podcast)
+1. [[RSS](http://www.spreaker.com/show/2969789/episodes/feed)] [Out of the Shadows](https://www.spreaker.com/show/OutoftheShadows)
+1. [[RSS](http://liarcity.libsyn.com/rss)] [Liar City](http://www.liarcity.com/)
+1. [[RSS](https://ganglandwire.com/feed/podcast/)] [Gangland Wire](https://ganglandwire.com/)
+1. [[RSS](http://www.the-line-up.com/feed/podcast/)] [The Lineup Podcast](http://www.the-line-up.com/)
+1. [[RSS](http://prisonlife.libsyn.com/rss)] [Prison Life Podcast - Crime, Punishment, and Family](http://prisonlife.libsyn.com/podcast)
+1. [[RSS](http://feeds.soundcloud.com/users/soundcloud:users:190761422/sounds.rss)] [Brutal Ends](http://www.brutalends.com/)
+1. [[RSS](http://curiositykillspodcast.com/feed/podcast/)] [Curiosity Kills Podcast](http://curiositykillspodcast.com/)
+1. [[RSS](https://audioboom.com/channels/4826442.rss)] [Military Justice](https://audioboom.com/channel/military-justice)
+1. [[RSS](http://feeds.soundcloud.com/users/soundcloud:users:266453266/sounds.rss)] [Keep Tucson Spooky](http://soundcloud.com/keeptucsonspooky)
+1. [[RSS](https://www.talkshoe.com/rss-mysteries-abound.xml)] [Mysteries Abound](https://talkshoe.com/show/mysteries-abound)
+1. [[RSS](http://feeds.soundcloud.com/users/soundcloud:users:168299476/sounds.rss)] [SBS True Stories](http://www.sbs.com.au/truestories)
+1. [[RSS](https://www.omnycontent.com/d/playlist/fdc2ad13-d199-4e97-b2db-a59300cb6cc2/1f71cc2a-a88d-4eab-bcf4-a94c01256e9e/b4813bde-d659-4e39-9f6d-a94c01256eba/podcast.rss)] [Nighttime](https://www.nighttimepodcast.com/)
+1. [[RSS](http://rss.acast.com/unexplained)] [Unexplained](http://www.acast.com/unexplained)
+1. [[RSS](http://www.cancrime.com/feed/podcast/)] [Cancrime](https://www.cancrime.com/)
+1. [[RSS](http://feeds.soundcloud.com/users/soundcloud:users:186639626/sounds.rss)] [Monograph](http://taaron.xyz/)
+1. [[RSS](https://audioboom.com/channels/4728027.rss)] [Actual Innocence](https://audioboom.com/channel/actualinnocence)
+1. [[RSS](http://feeds.feedburner.com/murdertown)] [The Murdertown Chronicles](http://remaking.murdertown.us/)
+1. [[RSS](http://netstorage.discovery.com/id/podcasts/2015/mindofamurderer.xml)] [The Mind of a Murderer Podcast](http://www.investigationdiscovery.com/)
+1. [[RSS](http://feeds.soundcloud.com/users/soundcloud:users:110781649/sounds.rss)] [MJP Radio](http://www.medilljusticeproject.org/)
+1. [[RSS](https://bonepalaceballet.podbean.com/feed.xml)] [Bone Palace Ballet](https://bonepalaceballet.podbean.com/)
+1. [[RSS](http://cultsofourlives.podomatic.com/rss2.xml)] [Cults of Our Lives](https://cultsofourlives.podomatic.com/)
+1. [[RSS](https://audioboom.com/channels/4808642.rss)] [The Streets with Curtis Sliwa](https://audioboom.com/channel/SliwasStreeets)
+1. [[RSS](https://audioboom.com/channels/4920914.rss)] [Pints and Puzzles](https://audioboom.com/channel/pintsandpuzzles)
+1. [[RSS](http://www.murderdictionary.com/feed/podcast/)] [Murder Dictionary](http://www.murderdictionary.com/)
+1. [[RSS](http://feeds.soundcloud.com/users/soundcloud:users:265504115/sounds.rss)] [The Week In Scary](http://soundcloud.com/user-224094829)
+1. [[RSS](http://feeds.soundcloud.com/users/soundcloud:users:269052749/sounds.rss)] [Twisted Sisters Podcast](http://soundcloud.com/twistedsisterspod)
+1. [[RSS](http://feeds.soundcloud.com/users/soundcloud:users:74207751/sounds.rss)] [MobCast](http://soundcloud.com/the-mobcast)
+1. [[RSS](http://truecrimehappyhour.podbean.com/feed/)] [True Crime Happy Hour](http://truecrimehappyhour.podbean.com/)
+1. [[RSS](https://rss.prod.firstlook.media/missingrichardsimmons/podcast.rss)] [Missing Richard Simmons](https://www.missingrichardsimmons.com/)
+1. [[RSS](http://caseidentity.com/feed/podcast/)] [The Gainesville Ripper EP027](http://caseidentity.com/)
+1. [[RSS](http://unconcluded.libsyn.com/rss)] [Unconcluded](https://audioboom.com/channel/unconcluded)
+1. [[RSS](https://feeds.publicradio.org/public_feeds/74-seconds/itunes/rss)] [74 Seconds](http://www.mprnews.org/topic/philandocastile)
+1. [[RSS](https://feeds.megaphone.fm/ADL5383141622)] [Based on a True Crime](https://murder.ly/based-on-a-true-crime/)
+1. [[RSS](https://caffeineandconspiracies.com/feed/podcast/)] [Caffeine And Conspiracies](https://caffeineandconspiracies.com/)
+1. [[RSS](https://feeds.megaphone.fm/ADL6741884833)] [Nothing Rhymes With Murder](http://soundcloud.com/nothingrhymeswithmurder)
+1. [[RSS](http://worstcrimesever.libsyn.com/rss)] [WORST CRIMES EVER - Latest Shocking Worldwide Crime News and stories of Serial Killers, Murderers, Rapists, Gangsters, True Crime and Cold Cases](http://worstcrimesever.com/)
+1. [[RSS](https://audioboom.com/channels/4914727.rss)] [True Crime Couple](https://audioboom.com/channels/4914727)
+1. [[RSS](http://justanothermurderpodcast.libsyn.com/rss)] [Just Another Murder Podcast](http://justanothermurderpodcast.libsyn.com/)
+1. [[RSS](http://momsandmurder.libsyn.com/rss)] [Moms and Murder](http://www.momsandmurder.com/)
+1. [[RSS](https://truecrimefinland.squarespace.com/new-blog?format=RSS)] [True Crime Finland](https://truecrimefinland.squarespace.com/new-blog/)
+1. [[RSS](http://www.blogtalkradio.com/themasonjarchronicles/podcast)] [The Mason Jar Chronicles](http://www.blogtalkradio.com/themasonjarchronicles)
+1. [[RSS](https://audioboom.com/channels/4925534.rss)] [Emma Fillipoff is Missing](https://audioboom.com/channel/help-find-emma-fillipoff)
+1. [[RSS](https://rss.whooshkaa.com/rss/podcast/id/1791)] [Australian True Crime](https://australiantruecrimepodcast.com/)
+1. [[RSS](https://anchor.fm/s/2351234/podcast/rss)] [Crime, Murder & Terrorism](https://anchor.fm/vinujoseph)
+1. [[RSS](https://rss.art19.com/felonious-florida)] [Felonious Florida](https://art19.com/shows/felonious-florida)
+1. [[RSS](https://anchor.fm/s/3822500/podcast/rss)] [The Murder Case of Hae Min Lee in 1999](https://anchor.fm/the-murder-case-of-hae-min-lee-in-1999)
+1. [[RSS](https://coldcasenotesfromthegooberstatequeen.podbean.com/feed.xml)] [Cold Case Notes From the Goober State Queen](https://coldcasenotesfromthegooberstatequeen.podbean.com/)
+1. [[RSS](http://feeds.feedburner.com/ffpod/seGU)] [First and Felony – A True Crime Podcast](https://ffpod.net/)
+1. [[RSS](https://audioboom.com/channels/4835137.rss)] [Felon True Crime](https://audioboom.com/channel/felontruecrime)
+1. [[RSS](https://twistedphilly.com/feed/podcast/)] [TwistedPhilly](https://twistedphilly.com/)
+1. [[RSS](http://feeds.soundcloud.com/users/soundcloud:users:255148939/sounds.rss)] [Hollywoodland: Unsolved](http://www.hollywoodlandpod.com/)
+1. [[RSS](https://rss.art19.com/martinis-and-murder)] [Martinis & Murder](http://oxygen.com/)
+1. [[RSS](http://feeds.soundcloud.com/users/soundcloud:users:281824037/sounds.rss)] [Crime & Trauma Report](http://crimescenecleaners.ca/)
+1. [[RSS](https://anchor.fm/s/3892ef4/podcast/rss)] [That's Weird](https://anchor.fm/thats-weird)
+1. [[RSS](http://www.blogtalkradio.com/itsaboutdamncrime/podcast)] [It's About Damn Crime](http://www.blogtalkradio.com/itsaboutdamncrime)
+1. [[RSS](http://feeds.stownpodcast.org/stownpodcast)] [S-Town](https://stownpodcast.org/)
+1. [[RSS](https://rss.art19.com/real-crime-profile-wondery)] [Real Crime Profile](http://wondery.com/realcrimeprofile)
+1. [[RSS](https://rss.art19.com/disgraceland)] [DISGRACELAND](https://art19.com/shows/disgraceland)
+1. [[RSS](http://sk8wireless.com/truecrime/wordpress3/feed/podcast/)] [True Crime After Dark](http://sk8wireless.com/truecrime/wordpress3)
+1. [[RSS](https://feed.pippa.io/public/shows/5b748ffbed87bc75458829bb)] [Death's Door: Investigating the most haunting cases from America's death row](http://www.acast.com/deathsdoor)
+1. [[RSS](http://feeds.soundcloud.com/users/soundcloud:users:335928186/sounds.rss)] [Creep: a true crime podcast](http://soundcloud.com/creep_true_crime_podcast)
+1. [[RSS](https://feeds.buzzsprout.com/126552.rss)] [Crime Dolls Podcast](https://crimedollspodcast.blogspot.com/?zx=4589ae21d2246cfe)
+1. [[RSS](https://rss.whooshkaa.com/rss/podcast/id/1536)] [Little Girl Lost: The Unsolved Murder of Leanne Holland](http://www.7news.com.au/)
+1. [[RSS](http://graphicdetail.libsyn.com/rss)] [Graphic Detail](http://graphicdetailpodcast.com/)
+1. [[RSS](https://rss.whooshkaa.com/rss/podcast/id/2970)] [Eight Minutes - Who Killed David Breckenridge?](https://player.whooshkaa.com/shows/eight-minutes-who-killed-david-breckenridge)
+1. [[RSS](https://feeds.megaphone.fm/ADL9722087177)] [Obscura: A True Crime Podcast](https://murder.ly/obscura/)
+1. [[RSS](https://darkhistories.podbean.com/feed/)] [Dark Histories](http://darkhistories.com/)
+1. [[RSS](http://thelip.tv/feed/httpthelip-tvcrime-timeaudio2/)] [Crime Time – MP3](http://thelip.tv/show/crime-time/)
+1. [[RSS](http://www.spreaker.com/user/7039907/episodes/feed)] [Tricia Griffith Show](http://www.spreaker.com/user/triciag)
+1. [[RSS](http://forensicgeekradio.libsyn.com/rss)] [Forensic Geek](http://www.forensicgeek.science/)
+1. [[RSS](http://thinkingstrings.com/podcasts/RCR/RCR.xml)] [Revealing® Criminology](http://thinkingstrings.com/revealing-criminology/)
+1. [[RSS](http://feeds.podtrac.com/n9rCoi_mvT2f)] [Listen With The Lights On](https://wamcpodcasts.org/)
+1. [[RSS](https://audioboom.com/channels/4957603.rss)] [The Ghost Museum](https://audioboom.com/channel/the-slab)
+1. [[RSS](http://rss.acast.com/theapextheabyss)] [The Apex & The Abyss](http://www.acast.com/theapextheabyss)
+1. [[RSS](http://mcpod.libsyn.com/rss)] [The Morbid Curiosity Podcast](http://mcpod.libsyn.com/podcast)
+1. [[RSS](https://www.spreaker.com/show/2986104/episodes/feed)] [Unraveled: A True Crime Podcast](https://www.spreaker.com/show/unraveled-a-true-crime-podcast)
+1. [[RSS](http://feeds.thisiscriminal.com/CriminalShow)] [Criminal](http://thisiscriminal.com/)
+1. [[RSS](https://rss.acast.com/untoldmurder)] [Untold: The Daniel Morgan Murder](http://www.untoldmurder.com/)
+1. [[RSS](https://podcasts.files.bbci.co.uk/p02vn2mt.rss)] [Who Killed Elsie Frost?](http://www.bbc.co.uk/programmes/p02vn2mt)
+1. [[RSS](http://truecrimecasefiles.podbean.com/feed/)] [True Crime Critique](https://truecrimecasefiles.podbean.com/)
+1. [[RSS](https://audioboom.com/channels/4783811.rss)] [Deathcast](https://audioboom.com/channel/deathcast)
+1. [[RSS](https://rss.art19.com/the-vanished-podcast-wondery)] [The Vanished Podcast](http://thevanishedpodcast.com/)
+1. [[RSS](http://rss.acast.com/thejuryroom)] [The Jury Room Podcast](http://www.cbsreality.tv/uk/shows.php?title=the+jury+room)
+1. [[RSS](https://rss.art19.com/best-case-worst-case)] [Best Case Worst Case](http://www.wondery.com/shows/bestcaseworstcase)
+1. [[RSS](https://rss.whooshkaa.com/rss/podcast/id/2097)] [True Crime Sisters](https://player.whooshkaa.com/shows/true-crime-sisters)
+1. [[RSS](http://queensofcrime.libsyn.com/rss)] [The Pros & Cons Podcast](http://www.theprosandconspodcast.com/)
+1. [[RSS](https://feeds.megaphone.fm/ADL4222414069)] [Corpus Delicti](https://murder.ly/corpus-delicti/)
+1. [[RSS](http://bitchcraft.libsyn.com/rss)] [Bitchcraft Podcast](http://bitchcraft.libsyn.com/website)
+1. [[RSS](http://hollywoodcrimescene.libsyn.com/rss)] [Hollywood Crime Scene](http://hollywoodcrimescene.libsyn.com/website)
+1. [[RSS](https://perhapsitsyou.wordpress.com/category/podcasts/feed/)] [Perhaps It's You](https://perhapsitsyou.wordpress.com/)
+1. [[RSS](https://criminallymotivated.podbean.com/feed.xml)] [Criminally Motivated](https://criminallymotivated.podbean.com/)
+1. [[RSS](http://www.blazingcariboustudios.com/feed/podcast/criminial-musings)] [Criminal Musings](http://www.blazingcariboustudios.com/)
+1. [[RSS](https://www.omnycontent.com/d/playlist/fdc2ad13-d199-4e97-b2db-a59300cb6cc2/e03d4e1e-d40b-4706-82d2-a95f010d0639/4f01b694-96f6-408f-9d02-a95f010d064d/podcast.rss)] [Dark Poutine - True Crime and Dark History](https://darkpoutine.podbean.com/)
+1. [[RSS](https://feeds.buzzsprout.com/181587.rss)] [A Tale Most Foul](https://mostfoulpodcast.blogspot.com/)
+1. [[RSS](https://feed.pippa.io/public/shows/5a9663b7be224a5f5ae63731)] [Mason Road Podcast](http://soundcloud.com/james-madonna)
+1. [[RSS](https://hoosierhomicide.podbean.com/feed.xml)] [Hoosier Homicide](https://hoosierhomicide.podbean.com/)
+1. [[RSS](https://audioboom.com/channels/4940991.rss)] [Somebody Somewhere](https://audioboom.com/channel/somebody-somewhere)
+1. [[RSS](https://audioboom.com/channels/4943124.rss)] [Mafia](https://audioboom.com/channel/mafia)
+1. [[RSS](https://feeds.podcastmirror.com/killafornia-dreaming)] [Killafornia Dreaming](https://www.orbitaljigsaw.com/podcasts/killafornia-dreaming/)
+1. [[RSS](https://beyondbizarretruecrime.podbean.com/feed.xml)] [Beyond Bizarre True Crime](https://beyondbizarretruecrime.podbean.com/)
+1. [[RSS](https://audioboom.com/channels/4957430.rss)] [The Philosophy of Crime](https://audioboom.com/channels/4957430)
+1. [[RSS](http://christinagrimmiemurder.libsyn.com/rss)] [Christina Grimmie: The Murder of a Rising Star](http://www.orlandosentinel.com/news/christina-grimmie-podcast/)
+1. [[RSS](https://feeds.megaphone.fm/ADL3698781956)] [Murder and Such](https://murder.ly/murder-and-such/)
+1. [[RSS](https://feeds.megaphone.fm/END8327072399)] [Cults](https://www.parcast.com/cults/)
+1. [[RSS](https://www.cbc.ca/podcasting/includes/sks.xml)] [Someone Knows Something](http://www.cbc.ca/radio/podcasts/current-affairs-information/sks/)
+1. [[RSS](https://nocturnepodcast.org/feed/podcast/)] [Nocturne](https://nocturnepodcast.org/)
+1. [[RSS](http://lbc.audioagain.com/podcast.php?channel=vishal)] [What Happened To Vishal?](http://www.lbc.co.uk/vishal)
+1. [[RSS](http://feeds.feedburner.com/itcamefromthewoodspodcast)] [It Came From the Woods Podcast](http://www.itcamefromthewoods.com/)
+1. [[RSS](http://fbiretiredcasefilereview.libsyn.com/rss)] [FBI Retired Case File Review](http://jerriwilliams.com/)
+1. [[RSS](http://www.buzzsprout.com/60143.rss)] [Mysterious Circumstances](http://www.blogtalkradio.com/mcpodcast)
+1. [[RSS](http://www.blogtalkradio.com/crimetimeradio/podcast)] [Crime Time](http://www.blogtalkradio.com/crimetimeradio)
+1. [[RSS](http://www.meanoldworld.com/meanoldworldeps?format=RSS)] [Mean Old World](http://www.meanoldworld.com/meanoldworldeps/)
+1. [[RSS](http://www.spreaker.com/user/9260385/episodes/feed)] [Talking Crime](https://www.spreaker.com/user/talkingcrime)
+1. [[RSS](http://feeds.soundcloud.com/users/soundcloud:users:260581473/sounds.rss)] [Ladykillers](http://soundcloud.com/ladykillerspod)
+1. [[RSS](https://www.voiceamerica.com/rss/itunes/2560)] [EXPLOITED: Crimes Against Humanity](https://www.voiceamerica.com/show/2560/exploited-crimes-against-humanity)
+1. [[RSS](https://truecrimeisland.squarespace.com/episodes?format=rss)] [True Crime Island](https://www.truecrimeisland.com/episodes/)
+1. [[RSS](https://rss.art19.com/crime-stories-with-nancy-grace)] [Crime Stories with Nancy Grace](http://www.crimeonline.com/)
+1. [[RSS](https://feeds.megaphone.fm/ADL3992165796)] [The Bad Taste Crimecast](https://www.badtastecrimecast.com/)
+1. [[RSS](https://feed.pippa.io/public/shows/canadiantruecrime)] [Canadian True Crime](https://canadiantruecrime.ca/)
+1. [[RSS](https://audioboom.com/channels/4908092.rss)] [VANISHED: The Tara Calico Investigation](https://audioboom.com/channel/vanished)
+1. [[RSS](https://feeds.megaphone.fm/ADL7219725607)] [Mens Rea Podcast](https://murder.ly/mens-rea/)
+1. [[RSS](https://rss.acast.com/theywalkamongus)] [They Walk Among Us - UK True Crime](http://theywalkamonguspodcast.com/)
+1. [[RSS](http://feeds.soundcloud.com/users/soundcloud:users:315734914/sounds.rss)] [Serial Killer Documentary Podcast](http://soundcloud.com/user-308173519)
+1. [[RSS](http://feeds.soundcloud.com/users/soundcloud:users:290079077/sounds.rss)] [Can We Cult](http://soundcloud.com/user-703925469)
+1. [[RSS](http://murderroadtrip.com/feed/podcast)] [Murder Road Trip](http://murderroadtrip.com/)
+1. [[RSS](https://audioboom.com/channels/4922466.rss)] [Deliberations](https://audioboom.com/channel/deliberations)
+1. [[RSS](https://winingaboutcrime.podbean.com/feed.xml)] [Wining About Crime](https://winingaboutcrime.podbean.com/)
+1. [[RSS](http://www.columbia.edu/cu/libraries/downloads/lweb/other/murderinthestacks.xml)] [Murder in the Stacks](http://www.columbia.edu/cu/libraries/downloads/lweb/other/)
+1. [[RSS](https://rss.art19.com/dirty-john)] [Dirty John](http://wondery.com/wondery/shows/dirtyjohn/)
+1. [[RSS](https://feeds.megaphone.fm/ADL9917876307)] [Eye for an Eye](https://murder.ly/eye-for-an-eye/)
+1. [[RSS](http://ofmythandmercy.libsyn.com/rss)] [Of Myth and Mercy](http://ofmythandmercy.com/)
+1. [[RSS](http://missingminorityproject.com/feed/podcast)] [The Missing Minority Project - True Crime Podcast](http://missingminorityproject.com/)
+1. [[RSS](http://stillmissingpodcast.com/feed/podcast/)] [Still Missing Podcast](http://stillmissingpodcast.com/)
+1. [[RSS](http://feeds.soundcloud.com/users/soundcloud:users:319198862/sounds.rss)] [Crime Smith: A True Crime Podcast](http://www.crimesmith.com/)
+1. [[RSS](http://themurderdigest.com/feed/)] [The Murder Digest](https://themurderdigest.com/)
+1. [[RSS](https://feeds.buzzsprout.com/158757.rss)] [Dear Audrey](http://www.facebook.com/DAMPODCAST)
+1. [[RSS](https://feed.pippa.io/public/shows/impactstatement)] [Impact Statement](http://impactstatement.libsyn.com/website)
+1. [[RSS](https://feeds.megaphone.fm/AOR3596963371)] [Murder under the Midnight Sun](https://audioboom.com/channels/4956931)
+1. [[RSS](https://rss.simplecast.com/podcasts/5890/rss)] [Murdertown](http://murdertownpodcast.com/)
+1. [[RSS](https://feed.pippa.io/public/shows/5b16ed17e0f4961b76e5326c)] [The Murder In My Family](https://themurderinmyfamily.com/)
+1. [[RSS](http://feeds.soundcloud.com/users/soundcloud:users:225547925/sounds.rss)] [SinisterStream Podcast](http://www.sinisterstream.com/)
+1. [[RSS](http://rss.acast.com/murderersandtheirmothers)] [Murderers and Their Mothers: The Debrief](http://www.cbsreality.co.uk/)
+1. [[RSS](http://feeds.feedburner.com/MysteriousDisappearances)] [Mysterious Disappearances](http://lancasterpodcaststudio.com/)
+1. [[RSS](http://feeds.soundcloud.com/users/soundcloud:users:233937588/sounds.rss)] [Uncovering Unexplained Mysteries](http://soundcloud.com/josh-cannon-361965896)
+1. [[RSS](http://www.podcastone.com/podcast?categoryID2=1181)] [The Serial Killer Podcast](https://podcastone.com/)
+1. [[RSS](http://feeds.soundcloud.com/users/soundcloud:users:220858927/sounds.rss)] [Still At Large Podcast](https://podcast96.wixsite.com/stillatlarge)
+1. [[RSS](http://crimeandcocktails.com/?feed=podcast)] [Crime and Cocktails](http://crimeandcocktails.com/)
+1. [[RSS](https://www.fbi.gov/feeds/wanted-by-the-fbi-podcast/itunes.xml)] [Wanted by the FBI podcast](https://www.fbi.gov/feeds/wanted-by-the-fbi-podcast)
+1. [[RSS](https://calico-podcasts.squarespace.com/highcrimes?format=rss)] [High Crimes](https://www.calicopodcasts.com/highcrimes/)
+1. [[RSS](http://quidproquocast.com/rss)] [Quid Pro Quo](http://quidproquocast.com/)
+1. [[RSS](http://crimequestpod.podomatic.com/rss2.xml)] [CrimeQuest](https://crimequestpod.podomatic.com/)
+1. [[RSS](http://www.asianoscarbait.com/true-crime-asia?format=rss)] [True Crime Asia](http://www.asianoscarbait.com/true-crime-asia/)
+1. [[RSS](https://edward-evans-55ur.squarespace.com/mysteriyes?format=rss)] [MysteriYES](http://www.evansmedia.org/mysteriyes/)
+1. [[RSS](https://rss.whooshkaa.com/rss/podcast/id/1398)] [Gone Girl](https://player.whooshkaa.com/shows/gone-girl)
+1. [[RSS](http://twogirlstruecrime.podomatic.com/rss2.xml)] [Two Girls True Crime](https://www.podomatic.com/podcasts/twogirlstruecrime)
+1. [[RSS](https://feeds.megaphone.fm/UNP4971994267)] [Pretty Scary](https://www.patreon.com/unpops)
+1. [[RSS](https://podcasts.files.bbci.co.uk/p03wy14r.rss)] [Body on the Moor](http://www.bbc.co.uk/programmes/p03wy14r)
+1. [[RSS](http://wineandcrimepodcast.libsyn.com/rss)] [Wine & Crime](http://soundcloud.com/user-700255087)
+1. [[RSS](http://crimebites.co.uk/feed/podcast)] [Crime Bites](http://crimebites.co.uk/)
+1. [[RSS](https://bloodymurder.podbean.com/feed.xml)] [Bloody Murder - A True Crime Podcast](http://bloodymurder.podbean.com/)
+1. [[RSS](https://crimecrazy.podbean.com/feed.xml)] [Crime Crazy Podcast](https://crimecrazy.podbean.com/)
+1. [[RSS](http://feeds.soundcloud.com/users/soundcloud:users:307551079/sounds.rss)] [Drunk in Crime](http://soundcloud.com/drunkincrime)
+1. [[RSS](http://feeds.soundcloud.com/users/soundcloud:users:306259126/sounds.rss)] [Mared & Karen](http://kromatic.media/)
+1. [[RSS](http://feeds.earhustlesq.com/earhustlesq)] [Ear Hustle](https://www.earhustlesq.com/)
+1. [[RSS](https://blessthismesspodcast.podbean.com/feed.xml)] [Bless this Mess: A Southern True Crime Podcast](https://blessthismesspodcast.podbean.com/)
+1. [[RSS](http://shoutengine.com/TheUhOhFeeling.xml)] [The Uh Oh Feeling](http://shoutengine.com/TheUhOhFeeling/)
+1. [[RSS](http://feeds.soundcloud.com/users/soundcloud:users:331521450/sounds.rss)] [Re-Enacted: An Unsolved Mysteries Podcast](https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&apn=com.google.android.music&link=https%3A//play.google.com/music/m/I3gvuqs5jxszcgq5mwxs7lef2h4%3Ft%3DRe-enacted%3A_An_Unsolved_Mysteries_Podcast%26pcampaignid%3DMKT-)
+1. [[RSS](https://thedarkdivide.podbean.com/feed.xml)] [The Dark Divide](https://thedarkdivide.podbean.com/)
+1. [[RSS](https://paradiseafterdark.podbean.com/feed.xml)] [Paradise After Dark](https://paradiseafterdark.podbean.com/)
+1. [[RSS](https://therightwrongturn.podbean.com/feed.xml)] [The Right Wrong Turn](https://therightwrongturn.podbean.com/)
+1. [[RSS](http://feeds.feedburner.com/AlreadyGonePD)] [Already Gone](http://www.podcastdetroit.com/)
+1. [[RSS](http://feeds.soundcloud.com/users/soundcloud:users:252018984/sounds.rss)] [Crime Historian](http://crimehistorian.com/)
+1. [[RSS](http://feeds.soundcloud.com/users/soundcloud:users:247291453/sounds.rss)] [The TX Files](https://www.patreon.com/txfiles)
+1. [[RSS](http://www.redrumredrumgirlsonmurder.com/blog-pocast/?format=rss)] [Podcast - Redrum, Redrum: Girls on Murder](http://www.redrumredrumgirlsonmurder.com/blog-pocast/)
+1. [[RSS](https://36times.podbean.com/feed.xml)] [36 Times- Canadian True Crime](https://36times.podbean.com/)
+1. [[RSS](http://armchairdetective.org/feed/podcast)] [The armchair detective podcast](http://armchairdetective.org/)
+1. [[RSS](https://feeds.megaphone.fm/END1032105222)] [Serial Killers](https://www.parcast.com/serial/)
+1. [[RSS](https://www.murdershespoke.com/blog?format=rss)] [Murder She Spoke](https://www.murdershespoke.com/blog/)
+1. [[RSS](https://rss.art19.com/hollywood-and-crime-wondery)] [Hollywood & Crime](http://wondery.com/hollywoodcrime)
+1. [[RSS](https://feed.pippa.io/public/shows/5b0b51d35d2f788725c01ea7)] [12-26-75](http://12-26-75.com/)
+1. [[RSS](http://deathincaliforniapod.com/feed/podcast/)] [Death In California](http://deathincaliforniapod.com/)
+1. [[RSS](http://headfullofcrime.libsyn.com/rss)] [Head Full of Crime](http://headfullofcrime.libsyn.com/website)
+1. [[RSS](https://kiwicrimespodcast.podbean.com/feed/)] [Kiwi Crimes](https://kiwicrimespodcast.podbean.com/)
+1. [[RSS](https://rss.whooshkaa.com/rss/podcast/id/2728)] [BLACK HANDS - A family mass murder](https://player.whooshkaa.com/shows/black-hands-a-family-mass-murder)
+1. [[RSS](https://rss.acast.com/murdermile)] [Murder Mile True-Crime Podcast](https://www.murdermiletours.com/podcast.html)
+1. [[RSS](https://audioboom.com/channels/4934964.rss)] [Getting Off](https://audioboom.com/channels/4934964)
+1. [[RSS](https://audioboom.com/channels/3709182.rss)] [Undisclosed](https://audioboom.com/channel/undisclosed)
+1. [[RSS](https://clouded.podbean.com/feed.xml)] [Clouded](https://clouded.podbean.com/)
+1. [[RSS](http://feeds.soundcloud.com/users/soundcloud:users:400713885/sounds.rss)] [Murder Blows](http://soundcloud.com/user-34599303)
+1. [[RSS](http://feeds.soundcloud.com/users/soundcloud:users:403642524/sounds.rss)] [I’ll Be Gone In The Dark – The Podcast](http://soundcloud.com/ill-be-gone-in-the-dark-the-podcast)
+1. [[RSS](https://feeds.megaphone.fm/ADL4547828324)] [Killin' It: The Crimecast](https://murder.ly/killin-it/)
+1. [[RSS](https://www.cbc.ca/podcasting/includes/uncover.xml)] [Uncover: Escaping NXIVM](http://www.cbc.ca/radio/originalpodcasts.html)
+1. [[RSS](https://audioboom.com/channels/4956863.rss)] [Which Murderer?](http://www.whichmurderer.com/)
+1. [[RSS](https://feeds.buzzsprout.com/184046.rss)] [Mile Marker 181]()
+1. [[RSS](https://feeds.megaphone.fm/END4115940173)] [Historical Figures](https://www.parcast.com/history/)
+1. [[RSS](http://nyccrimereport.libsyn.com/rss)] [The New York City Crime Report with Pat Dixon](http://nyccrimereport.libsyn.com/webpage)
+1. [[RSS](http://www.blogtalkradio.com/kimnkjel/podcast)] [Crime and Mystery](http://www.blogtalkradio.com/kimnkjel)
+1. [[RSS](http://radio.darkness.com/podcasts.xml)] [Radio Darkness](http://radio.darkness.com/)
+1. [[RSS](http://feeds.soundcloud.com/users/soundcloud:users:198122356/sounds.rss)] [The Stack Pack: An Unsolved Mysteries Podcast](http://soundcloud.com/the-stack-pack)
+1. [[RSS](http://www.podcastone.com/podcast?categoryID2=1144)] [Crime in Sports](https://www.podcastone.com/crime-in-sports)
+1. [[RSS](https://rss.whooshkaa.com/rss/podcast/id/1117)] [Bowraville](https://player.whooshkaa.com/shows/bowraville)
+1. [[RSS](https://feeds.megaphone.fm/END8394789342)] [Unsolved Murders: True Crime Stories](https://www.parcast.com/unsolved/)
+1. [[RSS](http://judgeandjeremy.libsyn.com/rss)] [Judge and Jeremy](http://www.judgeandjeremy.com/)
+1. [[RSS](https://courtjunkie.libsyn.com/rss)] [Court Junkie](http://courtjunkie.com/)
+1. [[RSS](https://rss.art19.com/up-and-vanished)] [Up and Vanished](https://art19.com/shows/up-and-vanished)
+1. [[RSS](http://rss.acast.com/slaughtertruecrime)] [S'laughter: True Crime Podcast](http://patreon.com/slaughterthepodcast)
+1. [[RSS](https://feeds.publicradio.org/public_feeds/in-the-dark/itunes/rss)] [In the Dark](http://www.apmreports.org/in-the-dark)
+1. [[RSS](https://parttimepodcasts.com/detective-society/?format=rss)] [Detective Society](https://parttimepodcasts.com/detective-society/)
+1. [[RSS](http://www.podcastone.com/podcast?categoryID2=1241)] [Small Town Murder](https://www.podcastone.com/small-town-murder)
+1. [[RSS](http://feeds.soundcloud.com/users/soundcloud:users:294106056/sounds.rss)] [The Redemption Podcast](http://westwoodwestwood.com/)
+1. [[RSS](http://feeds.soundcloud.com/users/soundcloud:users:306884029/sounds.rss)] [Cults, Cryptids, and Conspiracies](http://soundcloud.com/cultscryptidsconspiracies-podcast)
+1. [[RSS](http://www.podcastone.com/podcast?categoryID2=1119)] [Cold Case Files](https://www.aetv.com/shows/cold-case-files-2017/pages/cold-case-files-podcast)
+1. [[RSS](https://audioboom.com/channels/4906774.rss)] [Sworn](https://audioboom.com/channel/sworn)
+1. [[RSS](http://feeds.soundcloud.com/users/soundcloud:users:4786830/sounds.rss)] [Crime in Color](https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link=https%3A//play.google.com/music/m/Iuh4hhaojmukwwasqubmhfcowoa%3Ft%3DCrime_in_Color%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16)
+1. [[RSS](http://notperfectorfunctional.libsyn.com/rss)] [Not Perfect or Functional Podcast | True Crime | Sports | Pop Culture](http://www.notperfectorfunctional.com/)
+1. [[RSS](https://audioboom.com/channels/4938453.rss)] [The True Crime Enthusiast Podcast](https://truecrimeenthusiast.wordpress.com/)
+1. [[RSS](https://feeds.megaphone.fm/ADL3962584284)] [Mysteries and Urban Legends](https://murder.ly/maul)
+1. [[RSS](http://shoutengine.com/ThatMurderMysteryShow.xml)] [That Murder & Mystery Show](http://shoutengine.com/ThatMurderMysteryShow/)
+1. [[RSS](https://audioboom.com/channels/4939066.rss)] [Crime & Dine](https://audioboom.com/channels/4939066)
+1. [[RSS](http://downandawaypodcast.com/feed/podcast/)] [Down & Away](http://downandawaypodcast.com/)
+1. [[RSS](https://audioboom.com/channels/4940872.rss)] [Casefile True Crime](https://audioboom.com/channel/casefile-true-crime)
+1. [[RSS](http://feeds.theincomparable.com/fiye)] [Friends in Your Ears](https://www.theincomparable.com/fiye/)
+1. [[RSS](https://audioboom.com/channels/4942913.rss)] [Empty Frames](https://audioboom.com/channel/empty-frames)
+1. [[RSS](https://feeds.buzzsprout.com/151672.rss)] [Lone Star Law & Disorder]()
+1. [[RSS](http://murderwewrote.libsyn.com/rss)] [Murder We Wrote](http://www.murderwewrotepodcast.com/)
+1. [[RSS](http://crookedcousins.libsyn.com/rss)] [Crooked Cousins](http://crookedcousins.libsyn.com/website)
+1. [[RSS](https://feed.pippa.io/public/shows/5b1e99e1a8b23f2673c1c869)] [Crimesphere](https://feed.pippa.io/public/shows/crimesphere)
+1. [[RSS](http://feeds.podtrac.com/_NlNjRQ4h1_8)] [The Trail Went Cold](http://trailwentcold.com/)
+1. [[RSS](http://feeds.podtrac.com/IhG4GFjGedci)] [True Crime Review](http://truecrimereview.net/)
+1. [[RSS](http://www.crime-ridden.com/feed/podcast/crime-ridden)] [Crime-Ridden](http://www.crime-ridden.com/)
+1. [[RSS](https://huffduffer.com/truecrimereview/rss)] [truecrimereview on Huffduffer](https://huffduffer.com/truecrimereview)
+1. [[RSS](https://audioboom.com/channels/4904127.rss)] [UK True Crime Podcast](https://audioboom.com/channel/uk-true-crime-podcast)
+1. [[RSS](https://feeds.buzzsprout.com/82435.rss)] [Closing Arguments](http://www.stlcriminaldefense.com/)
+1. [[RSS](https://www.newstalk.com/content/001/podcastFeeds/440.xml)] [7 Deadly Sins](http://www.newstalk.com/podcasts/High_Noon/7_Deadly_Sins/)
+1. [[RSS](http://feeds.soundcloud.com/users/soundcloud:users:74447659/sounds.rss)] [whose crime is it anyway?](http://soundcloud.com/whosecrimeisitanyway)
+1. [[RSS](http://feeds.soundcloud.com/users/soundcloud:users:194364045/sounds.rss)] [Murder, Alaska](http://murderalaska.com/)
+1. [[RSS](https://murderandmimosas.podbean.com/feed/)] [Murder and Mimosas](https://murderandmimosas.podbean.com/)
+1. [[RSS](http://serialchillers.libsyn.com/rss)] [Serial Chillers Podcast](https://www.serialchillerspodcast.com/)
+1. [[RSS](https://feeds.buzzsprout.com/101323.rss)] [MI Crime Time](http://www.facebook.com/MIcrimetime)
+1. [[RSS](https://podcasts.files.bbci.co.uk/p054dybk.rss)] [Beyond Reasonable Doubt?](http://www.bbc.co.uk/programmes/p054dybk)
+1. [[RSS](https://rss.art19.com/sword-and-scale-rewind)] [Sword and Scale Rewind](http://ssrewind.com/)
+1. [[RSS](https://primetimetruecrime.com/feed/podcast/)] [Prime Time True Crime](https://primetimetruecrime.com/)
+1. [[RSS](https://pinecast.com/feed/guilty)] [Guilty: A True Crime Podcast](https://www.twitter.com/guilty_podcast)
+1. [[RSS](http://coldserialcrimecase.libsyn.com/rss)] [Cold Serial Crime Case](http://coldserialcrimecase.libsyn.com/website)
+1. [[RSS](https://truecrime204.podbean.com/feed.xml)] [True Crime 204](https://truecrime204.podbean.com/)
+1. [[RSS](https://truecrimegirls.podbean.com/feed.xml)] [True Crime Girls](https://truecrimegirls.podbean.com/)
+1. [[RSS](https://www.talkshoe.com/rss-crime-tales.xml)] [Crime Tales](https://talkshoe.com/show/crime-tales)
+1. [[RSS](http://feeds.feedburner.com/abcradio/killingonthecape)] [A Killing On the Cape](http://abcradio.com/podcasts/a-killing-on-the-cape/)
+1. [[RSS](https://asianmadnesspod.podbean.com/feed.xml)] [The Asian Madness Podcast](https://asianmadnesspod.podbean.com/)
+1. [[RSS](http://feeds.megaphone.fm/PPY3689373157)] [You Must Remember Manson](https://www.panoply.fm/)
+1. [[RSS](http://truecrimesweden.com/feed/podcast/)] [True Crime Sweden](http://truecrimesweden.com/)
+1. [[RSS](http://feeds.soundcloud.com/users/soundcloud:users:354849905/sounds.rss)] [Hollyweird Podcast](http://soundcloud.com/user-97543351)
+1. [[RSS](http://www.podcastone.com/podcast?categoryID2=1182)] [Murder Made Me Famous](https://podcastone.com/)
+1. [[RSS](https://audioboom.com/channels/4950176.rss)] [Marcia Clark Investigates The First 48](https://audioboom.com/channel/marcia-clark-investigates-the-first-48)
+1. [[RSS](https://www.southerngone.com/episodes?format=rss)] [Southern Gone](https://www.southerngone.com/episodes/)
+1. [[RSS](https://truecrimegarage.podbean.com/feed.xml)] [True Crime Garage](https://truecrimegarage.podbean.com/)
+1. [[RSS](http://feeds.soundcloud.com/users/soundcloud:users:204284097/sounds.rss)] [People v. Masters: Making a Murderer](http://coloradoan.com/)
+1. [[RSS](http://criminalinjustice.libsyn.com/rss)] [Criminal (In)justice](http://criminalinjusticepodcast.com/)
+1. [[RSS](https://rss.art19.com/sword-and-scale)] [Sword and Scale](http://swordandscale.com/)
+1. [[RSS](http://feeds.soundcloud.com/users/soundcloud:users:241577479/sounds.rss)] [Murder On The Space Coast](http://whereisbrandyhall.com/)
+1. [[RSS](https://rss.art19.com/wrongful-conviction-with-jason-flom)] [Wrongful Conviction with Jason Flom](https://art19.com/shows/wrongful-conviction-with-jason-flom)
+1. [[RSS](http://feeds.soundcloud.com/users/soundcloud:users:244776958/sounds.rss)] [Crime Roulette](http://soundcloud.com/crimeroulette)
+1. [[RSS](http://feeds.gimletmedia.com/crimetownshow)] [Crimetown](https://www.gimletmedia.com/show/crimetown)
+1. [[RSS](https://rss.art19.com/true-crime-all-the-time)] [True Crime All The Time](http://www.truecrimeallthetime.com/)
+1. [[RSS](https://www.blubrry.com/feeds/misconduct_podcast.xml)] [misconduct. a true crime podcast](https://www.misconductpodcast.com/)
+1. [[RSS](https://audioboom.com/channels/4911419.rss)] [And That's Why We Drink](https://audioboom.com/channel/andthatswhywedrink)
+1. [[RSS](https://rss.art19.com/thinking-sideways)] [Thinking Sideways Podcast](https://art19.com/shows/thinking-sideways)
+1. [[RSS](https://feeds.megaphone.fm/ADL5187597967)] [gone cold podcast - texas true crime](http://gonecoldpodcast.com/)
+1. [[RSS](https://twitchpod.podbean.com/feed/)] [This Week in True Crime History](https://twitchpod.podbean.com/)
+1. [[RSS](https://rss.art19.com/accused)] [Accused](http://wondery.com/wondery/shows/accused/)
+1. [[RSS](https://feed.pippa.io/public/shows/unsolved-mysteries-of-the-world)] [Unsolved Mysteries of the World](https://shows.pippa.io/unsolved-mysteries-of-the-world)
+1. [[RSS](http://feeds.soundcloud.com/users/soundcloud:users:78578042/sounds.rss)] [Zealot](http://soundcloud.com/zealotpodcast)
+1. [[RSS](http://sexloveandmurder.libsyn.com/rss)] [Sex Love & Murder](http://sexloveandmurder.libsyn.com/website)
+1. [[RSS](https://feeds.megaphone.fm/ADL8940753875)] [The Brothers Commonplace](http://thebrotherscommonplace.libsyn.com/website)
+1. [[RSS](https://audioboom.com/channels/4932565.rss)] [The Cleaning of John Doe | True Crime](https://audioboom.com/channels/4932565)
+1. [[RSS](http://www.spreaker.com/show/2723498/episodes/feed)] [Chasing Ghosts](https://www.spreaker.com/show/chasing-ghosts)
+1. [[RSS](https://feeds.megaphone.fm/ADL6191181725)] [Lustmordia](http://murder.ly/lustmordia)
+1. [[RSS](https://audioboom.com/channels/4942644.rss)] [The Unseen Podcast](https://audioboom.com/channels/4942644)
+1. [[RSS](https://feeds.megaphone.fm/ADL9840290619)] [Crime Junkie](https://cms.megaphone.fm/channel/ADL9840290619)
+1. [[RSS](http://feeds.soundcloud.com/users/soundcloud:users:345786674/sounds.rss)] [The Outlines Podcast: UK True Crime](http://soundcloud.com/theoutlinespodcast)
+1. [[RSS](https://feeds.megaphone.fm/ADL8288293115)] [Swindled](http://www.swindledpodcast.com/)
+1. [[RSS](http://winatallcosts.libsyn.com/rss)] [Win At All Costs](http://winatallcosts.libsyn.com/website)
+1. [[RSS](http://feeds.soundcloud.com/users/soundcloud:users:427339119/sounds.rss)] [Crime Culture](http://soundcloud.com/user-340323987-978778174)
+1. [[RSS](https://www.omnycontent.com/d/playlist/917c66b2-6626-44f4-b5e8-a4a4004532d8/307e5451-d043-436b-a3b5-a8d2000e2244/d51a4139-fdda-4921-8fa0-a8d20010f02c/podcast.rss)] [How I Survived podcast](https://www.thatslife.com.au/)
+1. [[RSS](https://audioboom.com/channels/4956251.rss)] [PD Stories](https://audioboom.com/channel/pd-stories)
+1. [[RSS](https://rss.art19.com/suspect-convictions)] [Suspect Convictions](https://art19.com/shows/suspect-convictions)
+1. [[RSS](https://audioboom.com/channels/4941658.rss)] [Dark Topic: A True Crime Podcast](https://audioboom.com/channel/dark-topic)
+1. [[RSS](https://truecrimedungeon.podbean.com/feed/)] [True Crime Dungeon](http://truecrimedungeon.podbean.com/)
+1. [[RSS](https://www.spreaker.com/show/2975465/episodes/feed)] [Southern Fried True Crime](https://www.spreaker.com/show/southern-fried-true-crime)
+1. [[RSS](http://www.abc.net.au/radionational/feed/8597522/podcast.xml)] [Trace - Trace](http://www.abc.net.au/radio/programs/trace/)
+1. [[RSS](http://feeds.feedburner.com/wordpress/ZQIq)] [13 O'Clock Podcast](https://13oclockpodcast.wordpress.com/)
+1. [[RSS](http://esotericoddities.libsyn.com/rss)] [Esoteric Oddities](http://esotericoddities.libsyn.com/website)
+1. [[RSS](http://smalltowndicks.libsyn.com/rss)] [Small Town Dicks Podcast](http://www.smalltowndicks.com/)
+1. [[RSS](https://rss.acast.com/redhanded)] [RedHanded](http://www.acast.com/redhanded)
+1. [[RSS](https://domesticpodcast.podbean.com/feed.xml)] [The Cult of Domesticity](https://domesticpodcast.podbean.com/)
+1. [[RSS](https://rss.simplecast.com/podcasts/3910/rss)] [The Pope's Long Con](http://longcon.kycir.org/)
+1. [[RSS](http://feeds.soundcloud.com/users/soundcloud:users:375415526/sounds.rss)] [The Lady Dicks Podcast](http://www.theladydicks.com/)
+1. [[RSS](http://targetedpodcast.libsyn.com/rss)] [Targeted Podcast: True Crime Domestic Violence](http://targetedpodcast.com/)
+1. [[RSS](https://feed.pippa.io/public/shows/5a92489ce330c15916472f18)] [True North Strange & Weird Podcast](https://tnswpodcast.podbean.com/feed/)
+1. [[RSS](http://fox40exposed.libsyn.com/rss)] [Exposed: The East Area Rapist](http://fox40.com/exposed)
+1. [[RSS](https://feeds.megaphone.fm/fiercely-altered)] [Fiercely Altered Perspective Podcast](http://murder.ly/fap/)
+1. [[RSS](http://feeds.adknit.com/app-search/hln/unmasking-a-killer/all/720/200/)] [Unmasking A Killer](https://cnncreativemarketing.com/unmasking)
+1. [[RSS](https://truecrimestorytime.podbean.com/feed/)] [True Crime Story Time](https://truecrimestorytime.podbean.com/)
+1. [[RSS](http://feeds.soundcloud.com/users/soundcloud:users:222318651/sounds.rss)] [Gone Podcast](http://soundcloud.com/justin-armstrong-233778459)
+1. [[RSS](https://feed.pippa.io/public/shows/5b7eee3536bf3f4166bc8c11)] [House of Mystery True Crime History](https://feed.pippa.io/public/shows/5b7eee3536bf3f4166bc8c11)
+1. [[RSS](http://unfoundpodcast.podomatic.com/rss2.xml)] [UnFound--A Missing Persons Program](https://unfoundpodcast.podomatic.com/)
+1. [[RSS](https://rss.art19.com/timesuck-with-dan-cummins)] [Timesuck with Dan Cummins](https://art19.com/shows/timesuck-with-dan-cummins)
+1. [[RSS](https://truecrimeandmysteries.podbean.com/feed.xml)] [True Crime and Mysteries](https://truecrimeandmysteries.podbean.com/)
+1. [[RSS](http://crimeandstuffonline.com/feed/podcast/)] [Crime&Stuff](http://crimeandstuffonline.com/)
+1. [[RSS](http://thewitchinghourpcast.libsyn.com/rss)] [The Witching Hour: Stories of the Macabre & Unusual](https://soundcloud.com/user-620519873)
+1. [[RSS](http://blackwattle.libsyn.com/rss)] [Merchants of Menace](http://blackwattle.libsyn.com/podcast)
+1. [[RSS](http://feeds.soundcloud.com/users/soundcloud:users:280460512/sounds.rss)] [Who Killed Theresa?](http://soundcloud.com/john-allore)
+1. [[RSS](http://crimescene.libsyn.com/rss)] [Jim Harold's Crime Scene](https://jimharold.com/category/crime-scene/)
+1. [[RSS](https://podcasts.files.bbci.co.uk/b00krfns.rss)] [Punt PI](http://www.bbc.co.uk/programmes/b00krfns)
+1. [[RSS](http://www.spreaker.com/show/2176105/episodes/feed)] [Those Conspiracy Guys](http://www.thoseconspiracyguys.com/)
+1. [[RSS](http://adatewithdateline.blubrry.com/feed/podcast/)] [A Date With Dateline](http://adatewithdateline.blubrry.com/)
+1. [[RSS](https://yoursinmurder.podbean.com/feed.xml)] [Yours in Murder](https://yoursinmurder.podbean.com/)
+1. [[RSS](https://rss.acast.com/redrum-blonde)] [Redrum Blonde](http://apple.co/2A7WXQi)
+1. [[RSS](https://rss.art19.com/true-crime-all-the-time-unsolved)] [True Crime All The Time Unsolved](http://wondery.com/wondery/shows/unsolved/)
+1. [[RSS](http://marbleorchard.libsyn.com/rss)] [Marble Orchard Podcast](http://marbleorchard.libsyn.com/website)
+1. [[RSS](https://feeds.megaphone.fm/ADL3232817641)] [MURDERISH](http://murderishpodcast.libsyn.com/website)
+1. [[RSS](https://feeds.megaphone.fm/ADL1636925896)] [All Crime No Cattle - A Texas True Crime Podcast](https://murder.ly/all-crime-no-cattle/)
+1. [[RSS](http://feeds.soundcloud.com/users/soundcloud:users:375603395/sounds.rss)] [The Lady Killers Podcast](http://soundcloud.com/user-851088330)
+1. [[RSS](https://audioboom.com/channels/4943422.rss)] [Hillbilly Horror Stories](https://audioboom.com/channel/hillbilly-horror-stories)
+1. [[RSS](https://rss.acast.com/the-doe-files)] [Beyond Your Nightmares](http://www.facebook.com/beyondyournightmares)
+1. [[RSS](https://rss.art19.com/dear-franklin-jones)] [Dear Franklin Jones](https://art19.com/shows/dear-franklin-jones)
+1. [[RSS](https://truecrimelasvegas.podbean.com/feed/)] [True Crime Guys](http://truecrimelasvegas.podbean.com/)
+1. [[RSS](https://rss.art19.com/my-favorite-murder-with-karen-kilgariff-and-georgia-hardstark-fb)] [My Favorite Murder with Karen Kilgariff and Georgia Hardstark](https://www.myfavoritemurder.com/)
+1. [[RSS](http://feeds.adknit.com/app-search/hln/forensic-files/all/720/200/)] [Forensic Files](http://discover.knit.audio/forensic-files/)
+1. [[RSS](https://audioboom.com/channels/4949991.rss)] [Genocide](https://audioboom.com/channel/genocide)
+1. [[RSS](http://danschorr.hipcast.com/rss/crime_and_justice_with_dan_schorr.xml)] [Crime and Justice with Dan Schorr](http://danschorr.hipcast.com/podcast/Hn8dJb)
+1. [[RSS](http://rss.acast.com/madeinsweden)] [Made in Sweden: the podcast of The Father](http://www.acast.com/madeinsweden)
+1. [[RSS](http://netstorage.discovery.com/id/podcasts/2015/FacingEvilRSS.xml)] [Facing Evil with Candice DeLong](http://www.investigationdiscovery.com/)
+1. [[RSS](https://feeds.megaphone.fm/makingamurderer)] [Making A Murderer](http://www.netflix.com/title/80000770)
+1. [[RSS](http://feeds.soundcloud.com/users/soundcloud:users:195872493/sounds.rss)] [Thin Air Podcast](http://www.thinairpodcast.com/)
+1. [[RSS](https://www.spreaker.com/show/1629623/episodes/feed)] [The Search Podcast](https://www.spreaker.com/show/the-search-podcast)
+1. [[RSS](http://www.blunthistory.com/episodes?format=rss)] [Blunt History Podcast](http://www.blunthistory.com/)
+1. [[RSS](http://morbidcuriosity.podomatic.com/rss2.xml)] [Morbid Curiosity](https://morbidcuriosity.podomatic.com/)
+1. [[RSS](http://feeds.soundcloud.com/users/soundcloud:users:210839865/sounds.rss)] [Crime Scene: True crime stories and investigations](http://soundcloud.com/lohud-crime-scene)
+1. [[RSS](https://rss.acast.com/crimeinvestigationpodcast)] [Crime + Investigation Podcast](https://www.crimeandinvestigation.co.uk/)
+1. [[RSS](http://feeds.soundcloud.com/users/soundcloud:users:217526025/sounds.rss)] [Finding Tammy Jo](http://www.findingtammyjo.com/)
+1. [[RSS](https://audioboom.com/channels/4810247.rss)] [Project Random](https://audioboom.com/channel/project-random)
+1. [[RSS](http://www.deadandburiedpodcast.com/fortune-killer?format=rss)] [Dead and Buried Podcast - Dead and Buried](http://www.deadandburiedpodcast.com/dead-and-buried-podcast/)
+1. [[RSS](http://beyondblood.podbean.com/feed.xml)] [Beyond the Blood](http://beyondblood.podbean.com/)
+1. [[RSS](http://goneat21.libsyn.com/goneat21.rss)] [Gone At 21](http://goneat21.libsyn.com/podcast)
+1. [[RSS](http://feeds.soundcloud.com/users/soundcloud:users:278920986/sounds.rss)] [Dark History Podcast](http://soundcloud.com/user-811886550)
+1. [[RSS](http://crimepod.libsyn.com/rss)] [CRiiiME](http://crimepod.libsyn.com/website)
+1. [[RSS](https://audioboom.com/channels/4922442.rss)] [The Fall Line: a true-crime serial](https://audioboom.com/channel/the-fall-line)
+1. [[RSS](https://www.omnycontent.com/d/playlist/4b5f9d6d-9214-48cb-8455-a73200038129/2038a24a-f93e-480c-ac3c-a7c201105d78/37617a95-08d6-4f84-9422-a7c20110d8e6/podcast.rss)] [Gone Cold: Philadelphia Unsolved Murders | A KYW Newsradio Podcast](https://kywnewsradio.radio.com/)
+1. [[RSS](http://hanging.bayareanewsgroup.libsynpro.com/rss)] [Hanging](http://mercurynews.com/hanging)
+1. [[RSS](https://www.omnycontent.com/d/playlist/a858b0a5-e5e6-4a14-9717-a70b010facc1/e54fd9aa-566b-476c-8bb5-a7c900f8f526/798316a4-87fc-459b-a24b-a7c900f9222d/podcast.rss)] [Sun Crime State Podcast](http://www.news-journalonline.com/)
+1. [[RSS](http://www.spreaker.com/show/2972785/episodes/feed)] [The Hidden Staircase](https://www.spreaker.com/show/the-hidden-staircase)
+1. [[RSS](http://occhi.new.nemsdj.com/feed/podcast/)] [Open: The Case of Leigh Occhi](http://occhi.new.nemsdj.com/)
+1. [[RSS](https://rss.art19.com/heavens-gate)] [Heaven's Gate](http://www.heavensgate.show/)
+1. [[RSS](http://feeds.soundcloud.com/users/soundcloud:users:337102467/sounds.rss)] [The Shot](http://pilotonline.com/theshot)
+1. [[RSS](https://rss.art19.com/young-charlie-by-hollywood-and-crime)] [Young Charlie by Hollywood & Crime](https://art19.com/shows/young-charlie-by-hollywood-and-crime)
+1. [[RSS](https://www.blubrry.com/feeds/nothingbutthetruth.xml)] [Nothing But The Truth](http://nothingbutthetruthpodcast.org/)
+1. [[RSS](http://www.spreaker.com/show/2974113/episodes/feed)] [True Crime Mafia](http://www.spreaker.com/show/true-crime-mafia)
+1. [[RSS](https://audioboom.com/channels/4956019.rss)] [Convicted Legacy](https://audioboom.com/channel/buried-alive)
+1. [[RSS](https://rss.whooshkaa.com/rss/podcast/id/3289)] [The Teacher's Pet](https://www.theaustralian.com.au/the-teachers-pet)
+1. [[RSS](https://murderwasthecase.podbean.com/feed.xml)] [Murder Was The Case](https://murderwasthecase.podbean.com/)
+1. [[RSS](https://librivox.org/rss/4212)] [Survivors' Tales of Famous Crimes by WOOD, Walter](https://librivox.org/survivors-tales-of-famous-crimes-by-walter-wood/)
+1. [[RSS](http://feeds.megaphone.fm/slatesdoublexpodcasts?limit=300)] [The Waves: Gender, Relationships, Feminism](http://www.slate.com/articles/podcasts/doublex_gabfest.html)
+1. [[RSS](http://lpotl.libsyn.com/rss)] [Last Podcast On The Left](https://lpotl.libsyn.com/website)
+1. [[RSS](http://whitewinetruecrime.com/feed/podcast/)] [White Wine True Crime!](http://whitewinetruecrime.com/)
+1. [[RSS](https://rss.art19.com/truth-and-justice-with-bob-ruff)] [Truth & Justice with Bob Ruff](https://art19.com/shows/truth-and-justice-with-bob-ruff)
+1. [[RSS](https://feeds.megaphone.fm/breakdown)] [Breakdown](http://www.myajc.com/voices/breakdown/)
+1. [[RSS](http://allthingsawful.libsyn.com/rss)] [All Things Awful with Adam & Alex](http://allthingsawful.libsyn.com/podcast)
+1. [[RSS](https://audioboom.com/channels/4655198.rss)] [Unsolved](https://audioboom.com/channel/unsolved)
+1. [[RSS](http://disasterareapodcast.libsyn.com/rss)] [Disaster Area](http://disasterareapodcast.libsyn.com/website)
+1. [[RSS](http://onceuponacrime.libsyn.com/rss)] [Once Upon A Crime | True Crime](http://onceuponacrime.libsyn.com/podcast)
+1. [[RSS](http://UnresolvedMysteries.podbean.com/feed/)] [Daily Mystery Pod](http://dailymysteriespod.podbean.com/)
+1. [[RSS](https://audioboom.com/channels/4791934.rss)] [In Sight: A True Crime Podcast](https://audioboom.com/channel/in-sight)
+1. [[RSS](http://pleasingterrors.libsyn.com/rss)] [Pleasing Terrors](http://pleasingterrors.libsyn.com/podcast)
+1. [[RSS](https://rss.whooshkaa.com/rss/podcast/id/1185)] [The Alibi](https://player.whooshkaa.com/shows/the-alibi)
+1. [[RSS](http://juviepodcast.com/feed/podcast/)] [juvie](http://juviepodcast.com/)
+1. [[RSS](http://maktac.com/feed/)] [MAKTAC - Mike and Kyle talk about COPS](http://maktac.podbean.com/)
+1. [[RSS](http://sexcrimespodcast.libsyn.com/rss)] [Sex Crimes Podcast](http://www.sexcrimespodcast.com/)
+1. [[RSS](https://www.cbc.ca/podcasting/includes/missing.xml)] [Missing & Murdered: Finding Cleo](http://www.cbc.ca/radio/podcasts/missing-murdered-who-killed-alberta-williams/)
+1. [[RSS](https://thestrangeandunusualpodcast.libsyn.com/rss)] [The Strange and Unusual Podcast](http://thestrangeandunusualpodcast.com/)
+1. [[RSS](https://rss.art19.com/the-minds-of-madness-podcast)] [The Minds of Madness - True Crime Stories](https://art19.com/shows/the-minds-of-madness-podcast)
+1. [[RSS](http://familyplots.libsyn.com/rss)] [Family Plots](https://familyplotspodcast.tumblr.com/)
+1. [[RSS](https://audioboom.com/channels/4929680.rss)] [True Crime Obsessed](https://audioboom.com/channel/true-crime-obsessed)
+1. [[RSS](http://feeds.feedburner.com/CosbyUnraveledPodcast)] [Cosby Unraveled](https://whyy.org/programs/cosby-unraveled/)
+1. [[RSS](https://feeds.buzzsprout.com/178238.rss)] [Cold Traces | cold-case true-crime investigation](https://audioboom.com/channel/cold-traces)
+1. [[RSS](https://texastrueterrors.podbean.com/feed.xml)] [Texas True Terrors Podcast](https://texastrueterrors.podbean.com/)
+1. [[RSS](http://feeds.soundcloud.com/users/soundcloud:users:326828315/sounds.rss)] [New England's Unsolved](http://boston25.com/unsolved)
+1. [[RSS](http://crimeinc.libsyn.com/rss)] [Crime Inc. Podcast](http://crimeinc.libsyn.com/website)
+1. [[RSS](https://feed.pippa.io/public/shows/mysterymurderythingy)] [Mystery Murdery Thingy](https://shows.pippa.io/mysterymurderythingy)
+1. [[RSS](https://comebackpodcast.podbean.com/feed.xml)] [ComeBack](https://comebackpodcast.podbean.com/)
+1. [[RSS](http://www.kaltura.com/api_v3/getFeed.php?partnerId=2103181&feedId=0_3dc0vr8l)] [Forensic Facial Reconstruction: Finding Mr X](https://www.sheffield.ac.uk/)
+1. [[RSS](https://rss.acast.com/mysteriously-listed)] [Mysteriously Listed: A True Crime Podcast](http://www.mysteriouslylisted.com/)
+1. [[RSS](https://feeds.megaphone.fm/empireonblood)] [Empire on Blood](https://empireonblood.panoply.fm/)
+1. [[RSS](https://fadedout.libsyn.com/rss)] [Faded Out](http://fadedout.libsyn.com/)
+1. [[RSS](https://rss.art19.com/the-wonderland-murders)] [The Wonderland Murders by Hollywood & Crime](https://art19.com/shows/the-wonderland-murders)
+1. [[RSS](https://rss.art19.com/aftermath)] [AFTERMATH](https://art19.com/shows/aftermath)
+1. [[RSS](http://truecrimeandchill.libsyn.com/rss)] [True Crime & Chill](http://truecrimeandchill.libsyn.com/rss)
+1. [[RSS](http://feeds.revealradio.org/revealpodcast)] [Reveal](http://www.revealnews.org/)
+1. [[RSS](http://thejinxpodcast.podomatic.com/rss2.xml)] [The Jinx Podcast](https://thejinxpodcast.podomatic.com/)
+1. [[RSS](http://junction.libsyn.com/rss)] [Junction](http://junctionpodcast.com/)
+1. [[RSS](https://audioboom.com/channels/4842113.rss)] [Missing Maura Murray](https://audioboom.com/channel/missing-maura-murray)
+1. [[RSS](http://noirfactory.libsyn.com/rss)] [Noir Factory Podcast](http://noirfactory.libsyn.com/podcast)
+1. [[RSS](http://tiegrabber.libsyn.com/rss)] [True Crime Brewery](http://tiegrabber.com/index.php/true-crime-brewery/)
+1. [[RSS](http://feeds.soundcloud.com/users/soundcloud:users:221945739/sounds.rss)] [True Crime Japan Podcast](http://www.southerndojo.com/truecrimejapan)
+1. [[RSS](http://twistedpodcast.libsyn.com/rss)] [Twisted Podcast](http://twistedpodcast.com/)
+1. [[RSS](https://audioboom.com/channels/4918522.rss)] [The Conspirators Podcast](https://audioboom.com/channel/theconspiratorspodcast)
+1. [[RSS](http://feeds.soundcloud.com/users/soundcloud:users:247644481/sounds.rss)] [Snapped - The Podcast](http://oxygen.com/snapped)
+1. [[RSS](https://www.omnycontent.com/d/playlist/2a6b7e06-e480-48f0-8d1e-a791000e2b00/e40d06b6-71d7-45ec-a0b6-a895003a1202/946e51fc-5fa4-43ac-b27b-a895003a1210/podcast.rss)] [Phoebe's Fall](http://www.theage.com.au/interactive/2016/phoebesfall/)
+1. [[RSS](http://www.deadandburiedpodcast.com/dead-and-buried-podcast?format=rss)] [Dead and Buried Podcast - Dead and Buried](http://www.deadandburiedpodcast.com/dead-and-buried-podcast/)
+1. [[RSS](https://rss.art19.com/stranglers)] [Stranglers](https://art19.com/shows/stranglers)
+1. [[RSS](https://rss.whooshkaa.com/rss/podcast/id/1375)] [Searching for Rachel Antonio](https://player.whooshkaa.com/shows/searching-for-rachel-antonio)
+1. [[RSS](http://bayareamysteryclub.libsyn.com/rss)] [Bay Area Mystery Club](http://bayareamysteryclub.libsyn.com/podcast)
+1. [[RSS](https://feeds.megaphone.fm/ADL9990649296)] [Martinis and the Macabre](https://murder.ly/lustmordia/)
+1. [[RSS](https://audioboom.com/channels/4902514.rss)] [Crime and Scandal](https://www.facebook.com/CrimeScandalPod/)
+1. [[RSS](http://criminality.libsyn.com/rss)] [Criminality: A True Crime Podcast](http://criminality.libsyn.com/podcast)
+1. [[RSS](http://pajamacrimes.libsyn.com/rss)] [Pajama Crimes](http://pajamacrimes.libsyn.com/podcast)
+1. [[RSS](https://feeds.megaphone.fm/ADL6420772541)] [Something's Not Right](https://murder.ly/somethings-not-right/)
+1. [[RSS](http://feeds.soundcloud.com/users/soundcloud:users:169187220/sounds.rss)] [The Little Podcast of Horrors](https://thelittlepodcastofhorrors.weebly.com/)
+1. [[RSS](http://astoryofinnocence.libsyn.com/rss)] [astoryofinnocence's podcast](http://astoryofinnocence.libsyn.com/website)
+1. [[RSS](https://feed.pippa.io/public/shows/criminology)] [Criminology](https://shows.pippa.io/5b4fa6925637657438d41961)
+1. [[RSS](https://zcast.co/feed/fb9d0d64-dfde-11e7-b264-0632e17bc2e4.rss)] [Missing Alissa](https://www.missingalissa.com/)
+1. [[RSS](http://feeds.soundcloud.com/users/soundcloud:users:316250987/sounds.rss)] [That's KC!](http://www.thatskcpod.com/)
+1. [[RSS](http://feeds.soundcloud.com/users/soundcloud:users:330200734/sounds.rss)] [Leap in the Dark: a podcast](http://soundcloud.com/user-619989397)
+1. [[RSS](http://feeds.soundcloud.com/users/soundcloud:users:330959264/sounds.rss)] [Deadly Decisions](http://soundcloud.com/christina-isaacs-574762162)
+1. [[RSS](https://www.la-not-so-confidential.com/lansc?format=rss)] [L.A. Not So Confidential](https://www.la-not-so-confidential.com/lansc/)
+1. [[RSS](http://feeds.megaphone.fm/watergate)] [Slow Burn](http://slate.com/slowburn)
+1. [[RSS](http://feeds.feedburner.com/MariticidePodcast)] [Mariticide Podcast](https://mariticidepodcast.com/podcast-1/)
+1. [[RSS](https://www.spreaker.com/show/2964579/episodes/feed)] [Murderous Minors: killer kids](https://www.spreaker.com/show/murderousminors)
+1. [[RSS](http://www.frozentruthpodcast.com/feed/podcast)] [Frozen Truth Podcast](http://www.frozentruthpodcast.com/)
+1. [[RSS](https://podcasts.files.bbci.co.uk/p060ms2h.rss)] [Death in Ice Valley](http://www.bbc.co.uk/programmes/p060ms2h)
+1. [[RSS](http://www.spreaker.com/show/2878300/episodes/feed)] [Shots in the Dark](http://www.spreaker.com/show/shots-in-the-dark)
+1. [[RSS](https://audioboom.com/channels/4960561.rss)] [Covert](https://audioboom.com/channel/covert)
+1. [[RSS](https://feeds.megaphone.fm/ADL4710191877)] [The Nowhere Dispatch](http://nowhere-dispatch.com/)
+1. [[RSS](https://rss.art19.com/dr-death)] [Dr. Death](https://art19.com/shows/dr-death)
+1. [[RSS](http://www.blogtalkradio.com/dan-zupansky1/podcast)] [True Murder: The Most Shocking Killers in True Crime History and the Authors That Have Written About Them](http://www.blogtalkradio.com/dan-zupansky1)
+1. [[RSS](http://www.blogtalkradio.com/justiceinterrupted/podcast)] [Justice Interrupted Crime Investigation Radio Network](http://www.blogtalkradio.com/justiceinterrupted)
+1. [[RSS](http://sagecriminology.sage-publications.libsynpro.com/rss)] [SAGE Criminology](http://www.sagepublications.com/)
+1. [[RSS](http://itsacrime.podomatic.com/rss2.xml)] [It's A Crime With Margaret McLean](https://www.podomatic.com/podcasts/itsacrime)
+1. [[RSS](http://feeds.serialpodcast.org/serialpodcast)] [Serial](https://serialpodcast.org/)
+1. [[RSS](https://rss.art19.com/generation-why-podcast)] [The Generation Why Podcast](https://art19.com/shows/generation-why-podcast)
+1. [[RSS](http://feeds.soundcloud.com/users/soundcloud:users:171779495/sounds.rss)] [I Found This Humerus Podcast](http://soundcloud.com/ifthpodcast)
+1. [[RSS](http://www.wwno.org/podcasts/90348/rss.xml)] [Unprisoned: Stories From The System](http://wwno.org/)
+1. [[RSS](http://juicingthepeople.podomatic.com/rss2.xml)] [Juicing The People v. O.J. Simpson: American Crime Story](http://juicingthepeople.podomatic.com/)
+1. [[RSS](http://www.podcastgarden.com/podcast/podcast-rss.php?id=9371)] [Killers, Cults, and Nutjobs](http://www.podcastgarden.com/podcast/killers)
+1. [[RSS](https://feed.pippa.io/public/shows/crimeandprecedents)] [Crime & Precedents](http://www.crimeandprecedents.com/)
+1. [[RSS](http://forensicfools.libsyn.com/rss)] [Forensic Fools](https://www.forensicfools.com/)
+1. [[RSS](http://podsforjustice.libsyn.com/rss)] [Convicted](https://www.podsforjustice.com/)
+1. [[RSS](http://crimegirlspodcast.libsyn.com/rss)] [Two of a Kind and True Crime](http://soundcloud.com/crimegirlspod)
+1. [[RSS](http://www.blogtalkradio.com/plzdelete/podcast)] [delete](http://www.blogtalkradio.com/plzdelete)
+1. [[RSS](https://feeds.megaphone.fm/AOR9390853732)] [Color Me Dead Podcast](https://colormedeadpodcast.podbean.com/)
+1. [[RSS](http://www.spreaker.com/show/2969829/episodes/feed)] [Psychic Sleuth](http://www.spreaker.com/show/psychic-sleuth)
+1. [[RSS](http://www.coldcasemurdermysteries.com/feed/podcast/)] [Cold Case Murder Mysteries](https://www.coldcasemurdermysteries.com/)
+1. [[RSS](https://anchor.fm/s/ebc314/podcast/rss)] [Cracking open a cold case](https://anchor.fm/lil-miss-goth-sweety)
+1. [[RSS](http://out-of-the-cold.libsyn.com/rss)] [Out of the Cold](http://www.star-telegram.com/news/special-reports/article173303721.html)
+1. [[RSS](https://anchor.fm/s/13f9354/podcast/rss)] [True Crime Uncensored](https://anchor.fm/burl-barer)
+1. [[RSS](https://toomacabreladies.libsyn.com/rss)] [Too Macabre Ladies](http://www.toomacabreladies.com/)
+1. [[RSS](https://feeds.megaphone.fm/ADL4884037558)] [Affirmative Murder](https://www.affirmativemurder.com/)
+1. [[RSS](https://rss.cast.plus/5b9301029cafaf060e15aec3/rss)] [DONE DISAPPEARED](http://donedisappeared.com/)
+1. [[RSS](https://feeds.megaphone.fm/ADL6843448614)] [Blood on the Rocks](https://murder.ly/blood-on-the-rocks/)
+1. [[RSS](http://tmatpodcast.blubrry.net/feed/podcast/)] [Talk More About That](http://tmatpodcast.blubrry.net/)
+1. [[RSS](http://hollyweirdparanormal.blubrry.net/feed/podcast/)] [Hollyweird Paranormal](http://hollyweirdparanormal.blubrry.net/)
+1. [[RSS](https://wineandpunishmentpod.podbean.com/feed.xml)] [Wine and Punishment](https://wineandpunishmentpod.podbean.com/)
+1. [[RSS](https://feeds.megaphone.fm/END9153553982)] [Female Criminals](https://www.parcast.com/criminals/)
+1. [[RSS](http://feeds.soundcloud.com/users/soundcloud:users:412165632/sounds.rss)] [How I Met My Murder](http://soundcloud.com/user-255966250)
+1. [[RSS](https://www.blubrry.com/feeds/murdercity.xml)] [Murder City: True Crime of Houston, Texas](https://www.murdercitypod.com/)
+1. [[RSS](http://adaywithcrime.libsyn.com/rss)] [A Day With Crime Podcast](http://adaywithcrime.libsyn.com/website)
+1. [[RSS](http://iono.fm/rss/chan/2553)] [RSS Error](http://iono.fm/rss/chan/2553)
+1. [[RSS](https://thesistersgrimm.podbean.com/feed.xml)] [The Sisters Grimm Podcast](https://thesistersgrimm.podbean.com/)
+1. [[RSS](https://inventionofmurder.podbean.com/feed/)] [Invention of Murder: 19th Century Crime](https://inventionofmurder.podbean.com/)
+1. [[RSS](http://feeds.soundcloud.com/users/soundcloud:users:349142681/sounds.rss)] [Another True Crime Podcast](http://soundcloud.com/atcpod)
     
 
 
 
 [0]: http://www.phpied.com/files/opml2html/opml2html.html
-[1]: http://allkillanofilla.podomatic.com/rss2.xml
-[2]: http://allkillanofilla.podomatic.com/
-[3]: http://junction.libsyn.com/rss
-[4]: http://junctionpodcast.com/
-[5]: http://feeds.soundcloud.com/users/soundcloud:users:179182212/sounds.rss
-[6]: http://theunresolvedpodcast.com/
-[7]: https://tiegrabber.com/index.php/feed/podcast/
-[8]: http://www.tiegrabber.com/truecrimebrewery/
-[9]: http://feeds.soundcloud.com/users/soundcloud:users:215204471/sounds.rss
-[10]: http://nowhere-dispatch.com/
-[11]: http://americasmissingpodcast.libsyn.com/rss
-[12]: http://americasmissingpodcast.libsyn.com/podcast
-[13]: https://audioboom.com/channels/4832195.rss
-[14]: https://audioboom.com/channel/american-crimecast
-[15]: http://www.bbc.co.uk/programmes/p03wy14r/episodes/downloads.rss
-[16]: http://www.bbc.co.uk/programmes/p03wy14r
-[17]: http://onceuponacrime.libsyn.com/rss
-[18]: http://onceuponacrime.libsyn.com/podcast
-[19]: http://feeds.soundcloud.com/users/soundcloud:users:110781649/sounds.rss
-[20]: http://www.medilljusticeproject.org/
-[21]: http://bonepalaceballet.podbean.com/feed/
-[22]: http://bonepalaceballet.podbean.com/
-[23]: https://audioboom.com/channels/4808642.rss
-[24]: https://audioboom.com/channel/SliwasStreeets
-[25]: http://pintsandpuzzles.libsyn.com/rss
-[26]: http://pintsandpuzzles.libsyn.com/podcast
-[27]: http://sexcrimespodcast.libsyn.com/rss
-[28]: http://www.sexcrimespodcast.com/
-[29]: http://www.murderdictionary.com/feed/podcast/
-[30]: http://www.murderdictionary.com/
-[31]: http://feeds.soundcloud.com/users/soundcloud:users:265504115/sounds.rss
-[32]: http://soundcloud.com/user-224094829
-[33]: http://canadiantruecrimepodcast.libsyn.com/rss
-[34]: http://canadiantruecrimepodcast.libsyn.com/podcast
-[35]: http://thedollop.libsyn.com/rss
-[36]: https://www.facebook.com/thedollop
-[37]: https://www.fbi.gov/news/podcasts/wanted/archive/itunes.xml
-[38]: https://www.fbi.gov/feeds/wanted-by-the-fbi-podcast
-[39]: http://danschorr.hipcast.com/rss/crime_and_justice_with_dan_schorr.xml
-[40]: http://danschorr.hipcast.com/podcast/Hn8dJb
-[41]: http://thelip.tv/feed/httpthelip-tvcrime-timeaudio2/
-[42]: http://thelip.tv/show/crime-time/
-[43]: http://www.spreaker.com/user/7039907/episodes/feed
-[44]: http://www.spreaker.com/user/triciag
-[45]: http://forensicgeekradio.libsyn.com/rss
-[46]: http://www.forensicgeek.science/
-[47]: http://www.nocturnepodcast.org/feed/podcast/
-[48]: http://www.nocturnepodcast.org/
-[49]: https://audioboom.com/channels/4384694.rss
-[50]: https://audioboom.com/channel/the-serial-dynasty
-[51]: http://lbc.audioagain.com/podcast.php?channel=vishal
-[52]: http://www.lbc.co.uk/vishal
-[53]: http://feeds.podtrac.com/n9rCoi_mvT2f
-[54]: https://wamcpodcasts.org/
-[55]: https://audioboom.com/channels/4746893.rss
-[56]: https://audioboom.com/channel/apexandabyss
-[57]: http://mcpod.libsyn.com/rss
-[58]: http://mcpod.libsyn.com/podcast
-[59]: http://www.theconspiratorspodcast.com/feed/podcast/
-[60]: http://www.theconspiratorspodcast.com/
-[61]: http://feeds.feedburner.com/itcamefromthewoodspodcast
-[62]: http://www.itcamefromthewoods.com/
-[63]: http://jerriwilliams.com/feed/podcast/
-[64]: http://jerriwilliams.com/
-[65]: http://www.thejabberlog.com/category/within-the-trenches/feed/
-[66]: http://www.thejabberlog.com/category/within-the-trenches/
-[67]: http://www.buzzsprout.com/60143.rss
-[68]: http://mysteriouscircumstances.buzzsprout.com/
-[69]: http://feeds.feedburner.com/ire-nicar
-[70]: http://www.ire.org/
-[71]: http://www.blogtalkradio.com/crimetimeradio/podcast
-[72]: http://www.blogtalkradio.com/crimetimeradio
-[73]: https://audioboom.com/channels/4634320.rss
-[74]: https://audioboom.com/channel/spycast
-[75]: http://feeds.feedburner.com/TheLastPodcastOnTheLeft
-[76]: http://soundcloud.com/lastpodcastontheleft
-[77]: http://feeds.podtrac.com/BsmnaLUsrvIG
-[78]: https://art19.com/shows/sword-and-scale
-[79]: https://api.radio.com/v2/podcast/rss/1222?format=MP3_128K
-[80]: http://radio.com/audio
-[81]: http://lorepodcast.libsyn.com/rss
-[82]: http://www.lorepodcast.com/
-[83]: http://www.meanoldworld.com/meanoldworldeps?format=RSS
-[84]: http://www.meanoldworld.com/meanoldworldeps/
-[85]: http://www.casebook.org/podcast/rss.xml
-[86]: http://www.casebook.org/podcast
-[87]: http://feeds.feedburner.com/Gimgnetwork
-[88]: http://gimg.tv/
-[89]: http://coronertalk.com/feed/podcast
-[90]: http://coronertalk.com/
-[91]: https://rss.art19.com/crime-writers-on
-[92]: https://art19.com/shows/crime-writers-on
-[93]: http://whitewinetruecrime.com/feed/podcast/
-[94]: http://whitewinetruecrime.com/
-[95]: http://www.bbc.co.uk/programmes/p02vn2mt/episodes/downloads.rss
-[96]: http://www.bbc.co.uk/programmes/p02vn2mt
-[97]: http://feeds.feedburner.com/WhatTheCrime
-[98]: http://www.crimefeed.com/
-[99]: http://abcnews.go.com/xmldata/xmlpodcast?id=30146791
-[100]: http://www.abcnewspodcasts.com/
-[101]: http://wwno.org/podcasts/90348/rss.xml
-[102]: http://wwno.org/
-[103]: http://feeds.feedburner.com/BreakdownPodcast
-[104]: http://ajcbreakdown.com/
-[105]: http://feeds.soundcloud.com/users/soundcloud:users:196549079/sounds.rss
-[106]: http://soundcloud.com/user-146231182
-[107]: http://feeds.feedburner.com/garyckingstruecrimepodcast
-[108]: http://www.truecrimeking.com/
-[109]: http://www.blogtalkradio.com/dan-zupansky1/podcast
-[110]: http://www.blogtalkradio.com/dan-zupansky1
-[111]: http://feeds.feedburner.com/herebemonsterspodcast/
-[112]: http://www.kcrw.com/news-culture/shows/here-be-monsters
-[113]: http://feeds.feedburner.com/CriminalShow
-[114]: http://thisiscriminal.com/
-[115]: http://rss.art19.com/real-crime-profile
-[116]: https://art19.com/shows/real-crime-profile
-[117]: http://netstorage.discovery.com/id/podcasts/2015/FacingEvilRSS.xml
-[118]: http://www.investigationdiscovery.com/
-[119]: http://feeds.misfitrad.io/happening
-[120]: http://misfitrad.io/happening
-[121]: http://netstorage.discovery.com/id/podcasts/2015/DetectivePodcast.xml
-[122]: https://audioboom.com/channels/4322549.rss
-[123]: https://audioboom.com/channel/astonishing-legends
-[124]: http://noirfactory.libsyn.com/rss
-[125]: http://noirfactory.libsyn.com/podcast
-[126]: http://truecrimegarage.podbean.com/feed/
-[127]: http://truecrimegarage.podbean.com/
-[128]: http://timtscott.libsyn.com/rss
-[129]: http://timtscott.libsyn.com/podcast
-[130]: http://trailwentcold.com/feed/podcast/
-[131]: http://trailwentcold.com/
-[132]: http://rss.acast.com/untoldmurder
-[133]: https://audioboom.com/channel/untold-the-daniel-morgan-murder
-[134]: http://twistedpodcast.libsyn.com/rss
-[135]: http://twistedpodcast.com/
-[136]: http://feeds.podtrac.com/IhG4GFjGedci
-[137]: http://truecrimereview.net/
-[138]: http://feeds.soundcloud.com/users/soundcloud:users:217526025/sounds.rss
-[139]: http://www.findingtammyjo.com/
-[140]: http://alreadygonepodcast.libsyn.com/rss
-[141]: https://audioboom.com/channel/already-gone-podcast
-[142]: http://feeds.feedburner.com/murdertown
-[143]: http://remaking.murdertown.us/
-[144]: http://feeds.soundcloud.com/users/soundcloud:users:252018984/sounds.rss
-[145]: http://crimehistorian.com/
-[146]: http://principleduncertainty.libsyn.com/rss
-[147]: http://principleduncertainty.libsyn.com/
-[148]: http://feeds.soundcloud.com/users/soundcloud:users:195872493/sounds.rss
-[149]: http://www.thinairpodcast.com/
-[150]: http://www.cbc.ca/podcasting/includes/sks.xml
-[151]: http://www.cbc.ca/podcasting
-[152]: http://feeds.soundcloud.com/users/soundcloud:users:210839865/sounds.rss
-[153]: http://soundcloud.com/lohud-crime-scene
-[154]: http://curiositykillspodcast.com/category/true-crime/feed/
-[155]: https://curiositykillspodcast.com/
-[156]: https://audioboom.com/channels/3709182.rss
-[157]: https://audioboom.com/channel/undisclosed
-[158]: http://allthingsawful.libsyn.com/rss
-[159]: http://allthingsawful.libsyn.com/podcast
-[160]: http://unsolvedpodcast.libsyn.com/rss
-[161]: http://www.unsolvedpodcast.com/
-[162]: http://iono.fm/rss/chan/2553
-[163]: http://iono.fm/channel/2553
-[164]: http://feeds.feedburner.com/ffpod/seGU
-[165]: https://ffpod.net/
-[166]: https://audioboom.com/channels/4835137.rss
-[167]: https://audioboom.com/channel/felontruecrime
-[168]: http://recordings.talkshoe.com/rss21864.xml
-[169]: http://www.talkshoe.com/talkshoe/web/tscmd/tc/21864
-[170]: http://thegenerationwhypodcast.com/feed/category/podcast
-[171]: http://thegenerationwhypodcast.com/
-[172]: https://audioboom.com/channels/4748686.rss
-[173]: https://audioboom.com/channel/the-night-time-podcast
-[174]: http://rss.acast.com/unexplained
-[175]: http://www.unexplainedpodcast.com/
-[176]: http://feeds.feedburner.com/deathcastpodcast
-[177]: https://audioboom.com/channel/deathcast
-[178]: http://UnresolvedMysteries.podbean.com/feed/
-[179]: http://dailymysteriespod.podbean.com/
-[180]: http://twistedphilly.com/feed/podcast/
-[181]: http://twistedphilly.com/
-[182]: http://feeds.soundcloud.com/users/soundcloud:users:255148939/sounds.rss
-[183]: http://www.hollywoodlandpod.com/
-[184]: http://www.deadandburiedpodcast.com/fortune-killer?format=rss
-[185]: http://www.deadandburiedpodcast.com/fortune-killer/
-[186]: http://www.deadandburiedpodcast.com/dead-and-buried-podcast?format=rss
-[187]: http://www.deadandburiedpodcast.com/dead-and-buried-podcast/
-[188]: http://feeds.soundcloud.com/users/soundcloud:users:281824037/sounds.rss
-[189]: http://crimescenecleaners.ca/
-[190]: https://audioboom.com/channels/4810247.rss
-[191]: https://audioboom.com/channel/project-random
-[192]: http://www.spreaker.com/user/9260385/episodes/feed
-[193]: https://www.spreaker.com/user/talkingcrime
-[194]: http://truecrimereview.madewithopinion.com/feeds/truecrimereview/rss/
-[195]: http://truecrimereview.madewithopinion.com/
-[196]: https://truecrimeisland.squarespace.com/episodes?format=rss
-[197]: http://www.truecrimeisland.com/episodes/
-[198]: http://feeds.soundcloud.com/users/soundcloud:users:278920986/sounds.rss
-[199]: http://soundcloud.com/user-811886550
-[200]: https://rss.art19.com/crime-stories-with-nancy-grace
-[201]: http://www.crimeonline.com/
-[202]: https://www.spreaker.com/show/1629623/episodes/feed
-[203]: https://www.spreaker.com/show/the-search-podcast
-[204]: http://crimeandinvestigation.podbean.com/feed/
-[205]: http://crimeandinvestigation.podbean.com/
-[206]: http://thisweekintruecrime.libsyn.com/rss
-[207]: http://www.facebook.com/groups/thisweekintruecrime
-[208]: http://feeds.soundcloud.com/users/soundcloud:users:221945739/sounds.rss
-[209]: http://www.southerndojo.com/truecrimejapan
-[210]: http://feeds.soundcloud.com/users/soundcloud:users:225547925/sounds.rss
-[211]: http://www.sinisterstream.com/
-[212]: http://rss.acast.com/murderersandtheirmothers
-[213]: http://www.cbsreality.co.uk/
-[214]: http://feeds.feedburner.com/MysteriousDisappearances
-[215]: http://lancasterpodcaststudio.com/
-[216]: http://www.podcastgarden.com/podcast/podcast-rss.php?id=9371
-[217]: http://www.podcastgarden.com/podcast/killers
-[218]: http://feeds.soundcloud.com/users/soundcloud:users:233937588/sounds.rss
-[219]: http://soundcloud.com/josh-cannon-361965896
-[220]: http://theserialkillerpodcast.libsyn.com/rss
-[221]: http://theserialkillerpodcast.libsyn.com/podcast
-[222]: http://juviepodcast.com/feed/podcast/
-[223]: http://juviepodcast.com/
-[224]: http://feeds.soundcloud.com/users/soundcloud:users:220858927/sounds.rss
-[225]: http://soundcloud.com/still-at-large-podcast
-[226]: http://crimeandcocktails.com/?feed=podcast
-[227]: http://crimeandcocktails.com/
-[228]: http://www.cbc.ca/podcasting/includes/missing.xml
-[229]: https://calico-podcasts.squarespace.com/highcrimes?format=rss
-[230]: http://www.calicopodcasts.com/highcrimes/
-[231]: http://crimequestpod.podomatic.com/rss2.xml
-[232]: http://crimequestpod.podomatic.com/
-[233]: http://www.asianoscarbait.com/true-crime-asia?format=rss
-[234]: http://www.asianoscarbait.com/true-crime-asia/
-[235]: https://edward-evans-55ur.squarespace.com/mysteriyes?format=rss
-[236]: http://www.evansmedia.org/mysteriyes/
-[237]: http://twogirlstruecrime.podomatic.com/rss2.xml
-[238]: http://twogirlstruecrime.podomatic.com/
-[239]: https://truecrimelasvegas.podbean.com/feed/
-[240]: http://truecrimelasvegas.podbean.com/
-[241]: http://bicbp-radio.com/history-creeps-podcast?format=rss
-[242]: http://bicbp-radio.com/history-creeps-podcast/
-[243]: http://feeds.soundcloud.com/users/soundcloud:users:242596778/sounds.rss
-[244]: http://www.parcast.com/
-[245]: http://feeds.soundcloud.com/users/soundcloud:users:247644481/sounds.rss
-[246]: http://oxygen.com/snapped
-[247]: http://www.northcountrypublicradio.org/hillarytrialRSSPodcast.php
-[248]: https://www.northcountrypublicradio.org/
-[249]: http://feeds.civilbeat.org/civilbeatoffshore
-[250]: http://offshorepodcast.com/
-[251]: https://truecrimefanclub.com/feed/podcast/
-[252]: https://truecrimefanclub.com/
-[253]: http://beyondblood.podbean.com/feed/
-[254]: http://beyondblood.podbean.com/
-[255]: https://audioboom.com/channels/4843708.rss
-[256]: https://audioboom.com/channel/crawlspace
-[257]: http://truecrimeallthetimeunsolved.libsyn.com/rss
-[258]: http://truecrimeallthetimeunsolved.libsyn.com/podcast
-[259]: http://www.redrumredrumgirlsonmurder.com/blog-pocast/?format=rss
-[260]: http://www.redrumredrumgirlsonmurder.com/blog-pocast/
-[261]: https://rss.art19.com/hollywood-and-crime
-[262]: https://art19.com/shows/hollywood-and-crime
-[263]: http://armchairdetective.org/feed/podcast
-[264]: http://armchairdetective.org/
-[265]: https://www.whooshkaa.com/rss/podcast/id/1250
-[266]: http://www.theage.com.au/interactive/2016/phoebesfall/
-[267]: http://www.crime-ridden.com/feed/podcast/crime-ridden
-[268]: http://www.crime-ridden.com/
-[269]: http://rss.earwolf.com/stranglers
-[270]: https://art19.com/shows/stranglers
-[271]: https://huffduffer.com/truecrimereview/rss
-[272]: https://huffduffer.com/truecrimereview
-[273]: https://www.blubrry.com/feeds/uktruecrimepodcast.xml
-[274]: http://uktruecrime.com/
-[275]: http://www.buzzsprout.com/82435.rss
-[276]: http://www.stlcriminaldefense.com/
-[277]: http://feeds.revealradio.org/revealpodcast
-[278]: http://www.revealnews.org/
-[279]: http://www.bbc.co.uk/programmes/b00krfns/episodes/downloads.rss
-[280]: http://www.bbc.co.uk/programmes/b00krfns
-[281]: http://feeds.serialpodcast.org/serialpodcast
-[282]: https://serialpodcast.org/
-[283]: http://feeds.gimletmedia.com/hearreplyall
-[284]: http://gimletmedia.com/shows/reply-all
-[285]: http://liarcity.libsyn.com/rss
-[286]: http://www.liarcity.com/
-[287]: https://ganglandwire.com/feed/podcast/
-[288]: https://ganglandwire.com/
-[289]: http://www.the-line-up.com/feed/podcast/
-[290]: http://www.the-line-up.com/
-[291]: http://feeds.soundcloud.com/users/soundcloud:users:190761422/sounds.rss
-[292]: http://www.brutalends.com/
-[293]: https://audioboom.com/channels/4639802.rss
-[294]: https://audioboom.com/channel/true-crime-historian
-[295]: http://rss.art19.com/my-favorite-murder-with-karen-kilgariff-and-georgia-hardstark-fb
-[296]: http://www.feralaudio.com/show/my-favorite-murder/
-[297]: http://feeds.soundcloud.com/users/soundcloud:users:204284097/sounds.rss
-[298]: http://coloradoan.com/
-[299]: http://criminalinjustice.libsyn.com/rss
-[300]: http://criminalinjusticepodcast.com/
-[301]: http://www.blunthistory.com/episodes?format=rss
-[302]: http://www.blunthistory.com/
-[303]: http://insightpod.libsyn.com/rss
-[304]: https://audioboom.com/channel/in-sight
-[305]: http://feeds.feedburner.com/Detective
-[306]: http://feeds.soundcloud.com/users/soundcloud:users:241577479/sounds.rss
-[307]: http://soundcloud.com/user-147270269
-[308]: http://feeds.castfire.com/itunes:2qkaz/ALL/revolver-podcasts/wrongful-conviction-with-jason-flom/s:it_PlfSq/
-[309]: http://www.revolverpodcasts.com/wrongful-conviction-with-jason-flom
-[310]: http://feeds.soundcloud.com/users/soundcloud:users:244776958/sounds.rss
-[311]: http://soundcloud.com/crimeroulette
-[312]: http://feeds.gimletmedia.com/crimetownshow
-[313]: https://www.gimletmedia.com/show/crimetown
-[314]: http://bayareamysteryclub.libsyn.com/rss
-[315]: http://bayareamysteryclub.libsyn.com/podcast
-[316]: http://truecrimeallthetime.libsyn.com/rss
-[317]: http://truecrimeallthetime.com/
-[318]: http://feeds.soundcloud.com/users/soundcloud:users:260256265/sounds.rss
-[319]: http://www.misconductpodcast.com/
-[320]: http://www.voiceamerica.com/rss/itunes/2560
-[321]: https://www.voiceamerica.com/show/2560/exploited-crimes-against-humanity
-[322]: http://casefile.libsyn.com/rss
-[323]: http://www.casefilepodcast.com/
-[324]: https://www.whooshkaa.com/rss/podcast/id/1185
-[325]: https://player.whooshkaa.com/shows/the-alibi
-[326]: https://audioboom.com/channels/4826442.rss
-[327]: https://audioboom.com/channel/military-justice
-[328]: http://feeds.soundcloud.com/users/soundcloud:users:266453266/sounds.rss
-[329]: http://soundcloud.com/keeptucsonspooky
-[330]: http://suspectconvictions.libsyn.com/rss
-[331]: http://suspectconvictions.com/
-[332]: http://themindsofmadness.podbean.com/feed/
-[333]: http://themindsofmadness.podbean.com/
-[334]: http://www.cancrime.com/feed/podcast/
-[335]: http://www.cancrime.com/
-[336]: http://feeds.soundcloud.com/users/soundcloud:users:186639626/sounds.rss
-[337]: http://taaron.xyz/
-[338]: http://thinkingsidewayspodcast.libsyn.com/rss
-[339]: http://thinkingsidewayspodcast.com/
-[340]: https://audioboom.com/channels/4728027.rss
-[341]: https://audioboom.com/channel/actualinnocence
-[342]: http://feeds.soundcloud.com/users/soundcloud:users:222318651/sounds.rss
-[343]: http://soundcloud.com/justin-armstrong-233778459
-[344]: http://houseofmysteryradio.podomatic.com/rss2.xml
-[345]: http://houseofmysteryradio.podomatic.com/
-[346]: http://feeds.soundcloud.com/users/soundcloud:users:234220545/sounds.rss
-[347]: http://cincinnati.com/
-[348]: http://unfoundpodcast.podomatic.com/rss2.xml
-[349]: http://unfoundpodcast.podomatic.com/
-[350]: https://audioboom.com/channels/4878185.rss
-[351]: https://audioboom.com/channel/theywalkamongus
-[352]: http://truecrimeandmysteries.podbean.com/feed/
-[353]: http://truecrimeandmysteries.podbean.com/
-[354]: http://crimeandstuffonline.com/feed/podcast/
-[355]: http://crimeandstuffonline.com/
-[356]: http://feeds.soundcloud.com/users/soundcloud:users:269912981/sounds.rss
-[357]: http://soundcloud.com/user-620519873
-[358]: http://nyccrimereport.libsyn.com/rss
-[359]: http://nyccrimereport.libsyn.com/webpage
-[360]: http://www.blogtalkradio.com/kimnkjel/podcast
-[361]: http://www.blogtalkradio.com/kimnkjel
-[362]: https://audioboom.com/channels/4842113.rss
-[363]: https://audioboom.com/channel/missing-maura-murray
-[364]: https://audioboom.com/channels/4749136.rss
-[365]: https://audioboom.com/channel/most-notorious
-[366]: https://audioboom.com/channels/4655198.rss
-[367]: https://audioboom.com/channel/unsolved
-[368]: http://thevanishedpodcast.libsyn.com/rss
-[369]: http://thevanishedpodcast.com/
-[370]: https://audioboom.com/channels/4662186.rss
-[371]: https://audioboom.com/channel/crime-in-sports
-[372]: https://www.whooshkaa.com/rss/podcast/id/1117
-[373]: https://player.whooshkaa.com/shows/bowraville
-[374]: http://feeds.soundcloud.com/users/soundcloud:users:224506341/sounds.rss
-[375]: http://judgeandjeremy.libsyn.com/rss
-[376]: http://www.judgeandjeremy.com/
-[377]: http://courtjunkie.libsyn.com/rss
-[378]: http://courtjunkie.com/
-[379]: http://feeds.publicradio.org/public_feeds/in-the-dark/itunes/rss
-[380]: http://www.apmreports.org/in-the-dark
-[381]: https://audioboom.com/channels/4811953.rss
-[382]: https://audioboom.com/channel/up-and-vanished
-[383]: http://feeds.soundcloud.com/users/soundcloud:users:264650643/sounds.rss
-[384]: http://soundcloud.com/slaughterthepodcast
-[385]: http://crimeandprecedents.libsyn.com/rss
-[386]: http://crimeandprecedents.libsyn.com/podcast
-[387]: https://feeds.publicradio.org/public_feeds/in-the-dark/itunes/rss
-[388]: http://goneat21.libsyn.com/goneat21.rss
-[389]: http://goneat21.libsyn.com/podcast
-[390]: https://audioboom.com/channels/4898582.rss
-[391]: https://audioboom.com/channel/smalltownmurder
-[392]: https://www.voiceamerica.com/rss/itunes/1748
-[393]: https://www.voiceamerica.com/show/1748/pis-declassified
-[394]: http://www.unraveledpod.com/feed/podcast/
-[395]: http://www.unraveledpod.com/
